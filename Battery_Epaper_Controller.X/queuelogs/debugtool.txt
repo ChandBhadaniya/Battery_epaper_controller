@@ -1,0 +1,1000 @@
+104951 1763533306976 XXXX 1763533306976, Thread 104951: XXXX 1763533306976, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533306976 XXXX 1763533306976, Thread 104951: XXXX 1763533306976, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533306977 XXXX 1763533306977, Thread 104951: XXXX 1763533306977, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307073 XXXX 1763533307073, Thread 104951: XXXX 1763533307073, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307081 XXXX 1763533307081, Thread 104951: XXXX 1763533307081, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307081 XXXX 1763533307081, Thread 104951: XXXX 1763533307081, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307082 XXXX 1763533307082, Thread 104951: XXXX 1763533307082, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307176 XXXX 1763533307176, Thread 104951: XXXX 1763533307176, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307184 XXXX 1763533307184, Thread 104951: XXXX 1763533307184, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307184 XXXX 1763533307184, Thread 104951: XXXX 1763533307184, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307185 XXXX 1763533307185, Thread 104951: XXXX 1763533307185, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307286 XXXX 1763533307286, Thread 104951: XXXX 1763533307286, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307294 XXXX 1763533307294, Thread 104951: XXXX 1763533307294, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307294 XXXX 1763533307294, Thread 104951: XXXX 1763533307294, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307295 XXXX 1763533307295, Thread 104951: XXXX 1763533307295, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307394 XXXX 1763533307394, Thread 104951: XXXX 1763533307394, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307411 XXXX 1763533307411, Thread 104951: XXXX 1763533307411, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307411 XXXX 1763533307411, Thread 104951: XXXX 1763533307411, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307411 XXXX 1763533307411, Thread 104951: XXXX 1763533307411, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307495 XXXX 1763533307495, Thread 104951: XXXX 1763533307495, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307501 XXXX 1763533307501, Thread 104951: XXXX 1763533307501, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307501 XXXX 1763533307501, Thread 104951: XXXX 1763533307501, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307502 XXXX 1763533307502, Thread 104951: XXXX 1763533307502, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307599 XXXX 1763533307599, Thread 104951: XXXX 1763533307599, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307607 XXXX 1763533307607, Thread 104951: XXXX 1763533307607, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307607 XXXX 1763533307607, Thread 104951: XXXX 1763533307607, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307608 XXXX 1763533307608, Thread 104951: XXXX 1763533307608, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307703 XXXX 1763533307703, Thread 104951: XXXX 1763533307703, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307712 XXXX 1763533307712, Thread 104951: XXXX 1763533307712, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307712 XXXX 1763533307712, Thread 104951: XXXX 1763533307712, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307712 XXXX 1763533307712, Thread 104951: XXXX 1763533307712, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307814 XXXX 1763533307814, Thread 104951: XXXX 1763533307814, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307825 XXXX 1763533307825, Thread 104951: XXXX 1763533307825, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307825 XXXX 1763533307825, Thread 104951: XXXX 1763533307825, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307826 XXXX 1763533307826, Thread 104951: XXXX 1763533307826, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307922 XXXX 1763533307922, Thread 104951: XXXX 1763533307922, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533307926 XXXX 1763533307926, Thread 104951: XXXX 1763533307926, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533307926 XXXX 1763533307926, Thread 104951: XXXX 1763533307926, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533307927 XXXX 1763533307927, Thread 104951: XXXX 1763533307927, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308024 XXXX 1763533308024, Thread 104951: XXXX 1763533308024, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308032 XXXX 1763533308032, Thread 104951: XXXX 1763533308032, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308032 XXXX 1763533308032, Thread 104951: XXXX 1763533308032, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308033 XXXX 1763533308033, Thread 104951: XXXX 1763533308033, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308125 XXXX 1763533308125, Thread 104951: XXXX 1763533308125, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308128 XXXX 1763533308128, Thread 104951: XXXX 1763533308128, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308128 XXXX 1763533308128, Thread 104951: XXXX 1763533308128, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308129 XXXX 1763533308129, Thread 104951: XXXX 1763533308129, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308226 XXXX 1763533308226, Thread 104951: XXXX 1763533308226, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308235 XXXX 1763533308235, Thread 104951: XXXX 1763533308235, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308235 XXXX 1763533308235, Thread 104951: XXXX 1763533308235, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308236 XXXX 1763533308236, Thread 104951: XXXX 1763533308236, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308332 XXXX 1763533308332, Thread 104951: XXXX 1763533308332, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308339 XXXX 1763533308339, Thread 104951: XXXX 1763533308339, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308339 XXXX 1763533308339, Thread 104951: XXXX 1763533308339, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308340 XXXX 1763533308340, Thread 104951: XXXX 1763533308340, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308439 XXXX 1763533308439, Thread 104951: XXXX 1763533308439, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308445 XXXX 1763533308445, Thread 104951: XXXX 1763533308445, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308445 XXXX 1763533308445, Thread 104951: XXXX 1763533308445, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308446 XXXX 1763533308446, Thread 104951: XXXX 1763533308446, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308545 XXXX 1763533308545, Thread 104951: XXXX 1763533308545, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308562 XXXX 1763533308562, Thread 104951: XXXX 1763533308562, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308562 XXXX 1763533308562, Thread 104951: XXXX 1763533308562, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308563 XXXX 1763533308563, Thread 104951: XXXX 1763533308563, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308650 XXXX 1763533308650, Thread 104951: XXXX 1763533308650, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308655 XXXX 1763533308655, Thread 104951: XXXX 1763533308655, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308655 XXXX 1763533308655, Thread 104951: XXXX 1763533308655, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308656 XXXX 1763533308656, Thread 104951: XXXX 1763533308656, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308753 XXXX 1763533308753, Thread 104951: XXXX 1763533308753, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308763 XXXX 1763533308763, Thread 104951: XXXX 1763533308763, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308763 XXXX 1763533308763, Thread 104951: XXXX 1763533308763, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308764 XXXX 1763533308764, Thread 104951: XXXX 1763533308764, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308862 XXXX 1763533308862, Thread 104951: XXXX 1763533308862, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308862 XXXX 1763533308862, Thread 104951: XXXX 1763533308862, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308862 XXXX 1763533308862, Thread 104951: XXXX 1763533308862, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308863 XXXX 1763533308863, Thread 104951: XXXX 1763533308863, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308964 XXXX 1763533308964, Thread 104951: XXXX 1763533308964, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533308971 XXXX 1763533308971, Thread 104951: XXXX 1763533308971, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533308971 XXXX 1763533308971, Thread 104951: XXXX 1763533308971, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533308972 XXXX 1763533308972, Thread 104951: XXXX 1763533308972, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309070 XXXX 1763533309070, Thread 104951: XXXX 1763533309070, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309082 XXXX 1763533309082, Thread 104951: XXXX 1763533309082, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309082 XXXX 1763533309082, Thread 104951: XXXX 1763533309082, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309097 XXXX 1763533309097, Thread 104951: XXXX 1763533309097, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309170 XXXX 1763533309170, Thread 104951: XXXX 1763533309170, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309171 XXXX 1763533309171, Thread 104951: XXXX 1763533309171, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309171 XXXX 1763533309171, Thread 104951: XXXX 1763533309171, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309172 XXXX 1763533309172, Thread 104951: XXXX 1763533309172, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309270 XXXX 1763533309270, Thread 104951: XXXX 1763533309270, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309273 XXXX 1763533309273, Thread 104951: XXXX 1763533309273, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309273 XXXX 1763533309273, Thread 104951: XXXX 1763533309273, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309274 XXXX 1763533309274, Thread 104951: XXXX 1763533309274, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309376 XXXX 1763533309376, Thread 104951: XXXX 1763533309376, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309383 XXXX 1763533309383, Thread 104951: XXXX 1763533309383, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309383 XXXX 1763533309383, Thread 104951: XXXX 1763533309383, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309384 XXXX 1763533309384, Thread 104951: XXXX 1763533309384, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309483 XXXX 1763533309483, Thread 104951: XXXX 1763533309483, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309489 XXXX 1763533309489, Thread 104951: XXXX 1763533309489, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309489 XXXX 1763533309489, Thread 104951: XXXX 1763533309489, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309490 XXXX 1763533309490, Thread 104951: XXXX 1763533309490, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309584 XXXX 1763533309584, Thread 104951: XXXX 1763533309584, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309585 XXXX 1763533309585, Thread 104951: XXXX 1763533309585, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309585 XXXX 1763533309585, Thread 104951: XXXX 1763533309585, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309586 XXXX 1763533309586, Thread 104951: XXXX 1763533309586, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309684 XXXX 1763533309684, Thread 104951: XXXX 1763533309684, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309686 XXXX 1763533309685, Thread 104951: XXXX 1763533309685, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309686 XXXX 1763533309686, Thread 104951: XXXX 1763533309686, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309686 XXXX 1763533309686, Thread 104951: XXXX 1763533309686, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309784 XXXX 1763533309784, Thread 104951: XXXX 1763533309784, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309785 XXXX 1763533309785, Thread 104951: XXXX 1763533309785, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309785 XXXX 1763533309785, Thread 104951: XXXX 1763533309785, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309786 XXXX 1763533309786, Thread 104951: XXXX 1763533309786, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309891 XXXX 1763533309891, Thread 104951: XXXX 1763533309891, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309891 XXXX 1763533309891, Thread 104951: XXXX 1763533309891, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309892 XXXX 1763533309892, Thread 104951: XXXX 1763533309891, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309892 XXXX 1763533309892, Thread 104951: XXXX 1763533309892, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309994 XXXX 1763533309994, Thread 104951: XXXX 1763533309994, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533309996 XXXX 1763533309996, Thread 104951: XXXX 1763533309996, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533309996 XXXX 1763533309996, Thread 104951: XXXX 1763533309996, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533309997 XXXX 1763533309997, Thread 104951: XXXX 1763533309997, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310097 XXXX 1763533310097, Thread 104951: XXXX 1763533310097, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310098 XXXX 1763533310098, Thread 104951: XXXX 1763533310098, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310098 XXXX 1763533310098, Thread 104951: XXXX 1763533310098, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310099 XXXX 1763533310099, Thread 104951: XXXX 1763533310099, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310198 XXXX 1763533310198, Thread 104951: XXXX 1763533310197, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310198 XXXX 1763533310198, Thread 104951: XXXX 1763533310198, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310198 XXXX 1763533310198, Thread 104951: XXXX 1763533310198, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310204 XXXX 1763533310204, Thread 104951: XXXX 1763533310204, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310297 XXXX 1763533310297, Thread 104951: XXXX 1763533310297, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310298 XXXX 1763533310298, Thread 104951: XXXX 1763533310298, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310298 XXXX 1763533310298, Thread 104951: XXXX 1763533310298, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310299 XXXX 1763533310299, Thread 104951: XXXX 1763533310299, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310399 XXXX 1763533310399, Thread 104951: XXXX 1763533310399, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310400 XXXX 1763533310400, Thread 104951: XXXX 1763533310400, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310400 XXXX 1763533310400, Thread 104951: XXXX 1763533310400, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310401 XXXX 1763533310401, Thread 104951: XXXX 1763533310401, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310500 XXXX 1763533310500, Thread 104951: XXXX 1763533310500, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310502 XXXX 1763533310502, Thread 104951: XXXX 1763533310502, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310502 XXXX 1763533310502, Thread 104951: XXXX 1763533310502, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310502 XXXX 1763533310502, Thread 104951: XXXX 1763533310502, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310600 XXXX 1763533310600, Thread 104951: XXXX 1763533310600, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310601 XXXX 1763533310601, Thread 104951: XXXX 1763533310601, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310601 XXXX 1763533310601, Thread 104951: XXXX 1763533310601, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310601 XXXX 1763533310601, Thread 104951: XXXX 1763533310601, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310700 XXXX 1763533310700, Thread 104951: XXXX 1763533310700, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310700 XXXX 1763533310700, Thread 104951: XXXX 1763533310700, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310700 XXXX 1763533310700, Thread 104951: XXXX 1763533310700, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310701 XXXX 1763533310701, Thread 104951: XXXX 1763533310701, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310800 XXXX 1763533310800, Thread 104951: XXXX 1763533310800, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310801 XXXX 1763533310801, Thread 104951: XXXX 1763533310801, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310801 XXXX 1763533310801, Thread 104951: XXXX 1763533310801, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310802 XXXX 1763533310802, Thread 104951: XXXX 1763533310802, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310900 XXXX 1763533310900, Thread 104951: XXXX 1763533310900, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533310902 XXXX 1763533310902, Thread 104951: XXXX 1763533310902, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533310902 XXXX 1763533310902, Thread 104951: XXXX 1763533310902, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533310903 XXXX 1763533310903, Thread 104951: XXXX 1763533310903, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311000 XXXX 1763533311000, Thread 104951: XXXX 1763533311000, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311000 XXXX 1763533311000, Thread 104951: XXXX 1763533311000, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311001 XXXX 1763533311001, Thread 104951: XXXX 1763533311000, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311001 XXXX 1763533311001, Thread 104951: XXXX 1763533311001, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311100 XXXX 1763533311100, Thread 104951: XXXX 1763533311100, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311101 XXXX 1763533311101, Thread 104951: XXXX 1763533311101, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311101 XXXX 1763533311101, Thread 104951: XXXX 1763533311101, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311101 XXXX 1763533311101, Thread 104951: XXXX 1763533311101, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311200 XXXX 1763533311200, Thread 104951: XXXX 1763533311200, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311201 XXXX 1763533311201, Thread 104951: XXXX 1763533311201, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311201 XXXX 1763533311201, Thread 104951: XXXX 1763533311201, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311202 XXXX 1763533311202, Thread 104951: XXXX 1763533311202, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311300 XXXX 1763533311300, Thread 104951: XXXX 1763533311300, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311301 XXXX 1763533311301, Thread 104951: XXXX 1763533311300, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311301 XXXX 1763533311301, Thread 104951: XXXX 1763533311301, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311301 XXXX 1763533311301, Thread 104951: XXXX 1763533311301, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311400 XXXX 1763533311400, Thread 104951: XXXX 1763533311400, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311401 XXXX 1763533311401, Thread 104951: XXXX 1763533311401, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311401 XXXX 1763533311401, Thread 104951: XXXX 1763533311401, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311402 XXXX 1763533311402, Thread 104951: XXXX 1763533311402, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311500 XXXX 1763533311500, Thread 104951: XXXX 1763533311500, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311501 XXXX 1763533311501, Thread 104951: XXXX 1763533311501, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311501 XXXX 1763533311501, Thread 104951: XXXX 1763533311501, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311501 XXXX 1763533311501, Thread 104951: XXXX 1763533311501, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311600 XXXX 1763533311600, Thread 104951: XXXX 1763533311600, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311601 XXXX 1763533311601, Thread 104951: XXXX 1763533311601, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311601 XXXX 1763533311601, Thread 104951: XXXX 1763533311601, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311602 XXXX 1763533311601, Thread 104951: XXXX 1763533311601, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311700 XXXX 1763533311700, Thread 104951: XXXX 1763533311700, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311700 XXXX 1763533311700, Thread 104951: XXXX 1763533311700, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311700 XXXX 1763533311700, Thread 104951: XXXX 1763533311700, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311702 XXXX 1763533311702, Thread 104951: XXXX 1763533311701, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311800 XXXX 1763533311800, Thread 104951: XXXX 1763533311800, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311801 XXXX 1763533311801, Thread 104951: XXXX 1763533311801, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311801 XXXX 1763533311801, Thread 104951: XXXX 1763533311801, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311802 XXXX 1763533311802, Thread 104951: XXXX 1763533311802, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311900 XXXX 1763533311900, Thread 104951: XXXX 1763533311900, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533311901 XXXX 1763533311901, Thread 104951: XXXX 1763533311901, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533311901 XXXX 1763533311901, Thread 104951: XXXX 1763533311901, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533311902 XXXX 1763533311902, Thread 104951: XXXX 1763533311902, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312002 XXXX 1763533312002, Thread 104951: XXXX 1763533312002, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312003 XXXX 1763533312003, Thread 104951: XXXX 1763533312003, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312003 XXXX 1763533312003, Thread 104951: XXXX 1763533312003, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312004 XXXX 1763533312004, Thread 104951: XXXX 1763533312004, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312102 XXXX 1763533312102, Thread 104951: XXXX 1763533312102, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312103 XXXX 1763533312103, Thread 104951: XXXX 1763533312103, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312103 XXXX 1763533312103, Thread 104951: XXXX 1763533312103, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312104 XXXX 1763533312104, Thread 104951: XXXX 1763533312104, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312202 XXXX 1763533312202, Thread 104951: XXXX 1763533312202, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312203 XXXX 1763533312203, Thread 104951: XXXX 1763533312203, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312203 XXXX 1763533312203, Thread 104951: XXXX 1763533312203, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312203 XXXX 1763533312203, Thread 104951: XXXX 1763533312203, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312302 XXXX 1763533312302, Thread 104951: XXXX 1763533312302, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312303 XXXX 1763533312303, Thread 104951: XXXX 1763533312303, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312303 XXXX 1763533312303, Thread 104951: XXXX 1763533312303, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312304 XXXX 1763533312304, Thread 104951: XXXX 1763533312304, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312403 XXXX 1763533312403, Thread 104951: XXXX 1763533312403, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312404 XXXX 1763533312404, Thread 104951: XXXX 1763533312404, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312404 XXXX 1763533312404, Thread 104951: XXXX 1763533312404, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312405 XXXX 1763533312405, Thread 104951: XXXX 1763533312405, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312504 XXXX 1763533312504, Thread 104951: XXXX 1763533312504, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312505 XXXX 1763533312505, Thread 104951: XXXX 1763533312505, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312505 XXXX 1763533312505, Thread 104951: XXXX 1763533312505, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312506 XXXX 1763533312506, Thread 104951: XXXX 1763533312506, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312604 XXXX 1763533312604, Thread 104951: XXXX 1763533312604, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312605 XXXX 1763533312605, Thread 104951: XXXX 1763533312605, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312605 XXXX 1763533312605, Thread 104951: XXXX 1763533312605, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312606 XXXX 1763533312606, Thread 104951: XXXX 1763533312606, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312704 XXXX 1763533312704, Thread 104951: XXXX 1763533312704, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312706 XXXX 1763533312706, Thread 104951: XXXX 1763533312706, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312706 XXXX 1763533312706, Thread 104951: XXXX 1763533312706, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312707 XXXX 1763533312707, Thread 104951: XXXX 1763533312707, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312806 XXXX 1763533312806, Thread 104951: XXXX 1763533312806, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312808 XXXX 1763533312808, Thread 104951: XXXX 1763533312808, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312808 XXXX 1763533312808, Thread 104951: XXXX 1763533312808, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312811 XXXX 1763533312811, Thread 104951: XXXX 1763533312811, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312906 XXXX 1763533312906, Thread 104951: XXXX 1763533312906, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533312907 XXXX 1763533312907, Thread 104951: XXXX 1763533312907, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533312907 XXXX 1763533312907, Thread 104951: XXXX 1763533312907, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533312908 XXXX 1763533312908, Thread 104951: XXXX 1763533312908, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313006 XXXX 1763533313006, Thread 104951: XXXX 1763533313006, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313007 XXXX 1763533313007, Thread 104951: XXXX 1763533313007, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313007 XXXX 1763533313007, Thread 104951: XXXX 1763533313007, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313008 XXXX 1763533313008, Thread 104951: XXXX 1763533313008, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313106 XXXX 1763533313106, Thread 104951: XXXX 1763533313106, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313107 XXXX 1763533313107, Thread 104951: XXXX 1763533313107, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313107 XXXX 1763533313107, Thread 104951: XXXX 1763533313107, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313108 XXXX 1763533313108, Thread 104951: XXXX 1763533313108, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313206 XXXX 1763533313206, Thread 104951: XXXX 1763533313206, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313207 XXXX 1763533313207, Thread 104951: XXXX 1763533313207, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313207 XXXX 1763533313207, Thread 104951: XXXX 1763533313207, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313208 XXXX 1763533313208, Thread 104951: XXXX 1763533313208, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313306 XXXX 1763533313306, Thread 104951: XXXX 1763533313306, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313307 XXXX 1763533313307, Thread 104951: XXXX 1763533313307, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313307 XXXX 1763533313307, Thread 104951: XXXX 1763533313307, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313308 XXXX 1763533313308, Thread 104951: XXXX 1763533313308, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313408 XXXX 1763533313408, Thread 104951: XXXX 1763533313408, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313409 XXXX 1763533313409, Thread 104951: XXXX 1763533313409, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313409 XXXX 1763533313409, Thread 104951: XXXX 1763533313409, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313410 XXXX 1763533313410, Thread 104951: XXXX 1763533313410, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313509 XXXX 1763533313509, Thread 104951: XXXX 1763533313509, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313510 XXXX 1763533313510, Thread 104951: XXXX 1763533313510, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313510 XXXX 1763533313510, Thread 104951: XXXX 1763533313510, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313511 XXXX 1763533313511, Thread 104951: XXXX 1763533313511, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313609 XXXX 1763533313609, Thread 104951: XXXX 1763533313609, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313610 XXXX 1763533313610, Thread 104951: XXXX 1763533313610, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313610 XXXX 1763533313610, Thread 104951: XXXX 1763533313610, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313611 XXXX 1763533313611, Thread 104951: XXXX 1763533313611, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313709 XXXX 1763533313709, Thread 104951: XXXX 1763533313709, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313710 XXXX 1763533313710, Thread 104951: XXXX 1763533313710, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313710 XXXX 1763533313710, Thread 104951: XXXX 1763533313710, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313711 XXXX 1763533313711, Thread 104951: XXXX 1763533313711, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313809 XXXX 1763533313809, Thread 104951: XXXX 1763533313809, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313810 XXXX 1763533313810, Thread 104951: XXXX 1763533313810, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313810 XXXX 1763533313810, Thread 104951: XXXX 1763533313810, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313811 XXXX 1763533313811, Thread 104951: XXXX 1763533313811, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313909 XXXX 1763533313909, Thread 104951: XXXX 1763533313909, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533313910 XXXX 1763533313910, Thread 104951: XXXX 1763533313910, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533313910 XXXX 1763533313910, Thread 104951: XXXX 1763533313910, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533313911 XXXX 1763533313911, Thread 104951: XXXX 1763533313911, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314011 XXXX 1763533314011, Thread 104951: XXXX 1763533314011, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314013 XXXX 1763533314013, Thread 104951: XXXX 1763533314013, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314013 XXXX 1763533314013, Thread 104951: XXXX 1763533314013, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314014 XXXX 1763533314014, Thread 104951: XXXX 1763533314014, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314111 XXXX 1763533314111, Thread 104951: XXXX 1763533314111, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314112 XXXX 1763533314112, Thread 104951: XXXX 1763533314112, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314112 XXXX 1763533314112, Thread 104951: XXXX 1763533314112, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314113 XXXX 1763533314113, Thread 104951: XXXX 1763533314113, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314211 XXXX 1763533314211, Thread 104951: XXXX 1763533314211, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314212 XXXX 1763533314212, Thread 104951: XXXX 1763533314212, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314212 XXXX 1763533314212, Thread 104951: XXXX 1763533314212, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314213 XXXX 1763533314213, Thread 104951: XXXX 1763533314213, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314311 XXXX 1763533314311, Thread 104951: XXXX 1763533314311, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314312 XXXX 1763533314312, Thread 104951: XXXX 1763533314312, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314312 XXXX 1763533314312, Thread 104951: XXXX 1763533314312, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314313 XXXX 1763533314313, Thread 104951: XXXX 1763533314313, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314412 XXXX 1763533314412, Thread 104951: XXXX 1763533314412, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314413 XXXX 1763533314413, Thread 104951: XXXX 1763533314413, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314413 XXXX 1763533314413, Thread 104951: XXXX 1763533314413, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314414 XXXX 1763533314414, Thread 104951: XXXX 1763533314414, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314512 XXXX 1763533314512, Thread 104951: XXXX 1763533314512, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314513 XXXX 1763533314513, Thread 104951: XXXX 1763533314513, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314513 XXXX 1763533314513, Thread 104951: XXXX 1763533314513, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314514 XXXX 1763533314514, Thread 104951: XXXX 1763533314514, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314613 XXXX 1763533314613, Thread 104951: XXXX 1763533314613, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314614 XXXX 1763533314614, Thread 104951: XXXX 1763533314614, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314614 XXXX 1763533314614, Thread 104951: XXXX 1763533314614, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314615 XXXX 1763533314615, Thread 104951: XXXX 1763533314615, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314713 XXXX 1763533314713, Thread 104951: XXXX 1763533314713, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314714 XXXX 1763533314714, Thread 104951: XXXX 1763533314714, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314714 XXXX 1763533314714, Thread 104951: XXXX 1763533314714, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314715 XXXX 1763533314715, Thread 104951: XXXX 1763533314715, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314814 XXXX 1763533314814, Thread 104951: XXXX 1763533314814, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314815 XXXX 1763533314815, Thread 104951: XXXX 1763533314815, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314815 XXXX 1763533314815, Thread 104951: XXXX 1763533314815, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314816 XXXX 1763533314816, Thread 104951: XXXX 1763533314816, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314915 XXXX 1763533314915, Thread 104951: XXXX 1763533314915, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533314918 XXXX 1763533314918, Thread 104951: XXXX 1763533314918, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533314918 XXXX 1763533314918, Thread 104951: XXXX 1763533314918, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533314919 XXXX 1763533314919, Thread 104951: XXXX 1763533314919, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315016 XXXX 1763533315016, Thread 104951: XXXX 1763533315016, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315017 XXXX 1763533315017, Thread 104951: XXXX 1763533315017, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315017 XXXX 1763533315017, Thread 104951: XXXX 1763533315017, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315018 XXXX 1763533315018, Thread 104951: XXXX 1763533315018, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315116 XXXX 1763533315116, Thread 104951: XXXX 1763533315116, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315120 XXXX 1763533315120, Thread 104951: XXXX 1763533315120, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315120 XXXX 1763533315120, Thread 104951: XXXX 1763533315120, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315121 XXXX 1763533315121, Thread 104951: XXXX 1763533315121, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315218 XXXX 1763533315218, Thread 104951: XXXX 1763533315218, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315219 XXXX 1763533315219, Thread 104951: XXXX 1763533315219, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315219 XXXX 1763533315219, Thread 104951: XXXX 1763533315219, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315220 XXXX 1763533315220, Thread 104951: XXXX 1763533315220, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315322 XXXX 1763533315322, Thread 104951: XXXX 1763533315322, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315324 XXXX 1763533315324, Thread 104951: XXXX 1763533315324, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315324 XXXX 1763533315324, Thread 104951: XXXX 1763533315324, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315325 XXXX 1763533315325, Thread 104951: XXXX 1763533315325, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315423 XXXX 1763533315423, Thread 104951: XXXX 1763533315423, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315424 XXXX 1763533315424, Thread 104951: XXXX 1763533315424, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315424 XXXX 1763533315424, Thread 104951: XXXX 1763533315424, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315425 XXXX 1763533315425, Thread 104951: XXXX 1763533315425, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315525 XXXX 1763533315525, Thread 104951: XXXX 1763533315525, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315528 XXXX 1763533315528, Thread 104951: XXXX 1763533315528, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315528 XXXX 1763533315528, Thread 104951: XXXX 1763533315528, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315529 XXXX 1763533315529, Thread 104951: XXXX 1763533315529, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315627 XXXX 1763533315627, Thread 104951: XXXX 1763533315627, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315631 XXXX 1763533315631, Thread 104951: XXXX 1763533315631, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315631 XXXX 1763533315631, Thread 104951: XXXX 1763533315631, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315632 XXXX 1763533315632, Thread 104951: XXXX 1763533315632, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315730 XXXX 1763533315729, Thread 104951: XXXX 1763533315729, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315734 XXXX 1763533315734, Thread 104951: XXXX 1763533315734, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315734 XXXX 1763533315734, Thread 104951: XXXX 1763533315734, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315735 XXXX 1763533315735, Thread 104951: XXXX 1763533315735, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315834 XXXX 1763533315834, Thread 104951: XXXX 1763533315834, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315838 XXXX 1763533315838, Thread 104951: XXXX 1763533315838, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315838 XXXX 1763533315838, Thread 104951: XXXX 1763533315838, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315839 XXXX 1763533315839, Thread 104951: XXXX 1763533315839, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315934 XXXX 1763533315934, Thread 104951: XXXX 1763533315934, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533315937 XXXX 1763533315937, Thread 104951: XXXX 1763533315937, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533315937 XXXX 1763533315937, Thread 104951: XXXX 1763533315937, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533315938 XXXX 1763533315938, Thread 104951: XXXX 1763533315938, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316035 XXXX 1763533316035, Thread 104951: XXXX 1763533316035, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316036 XXXX 1763533316036, Thread 104951: XXXX 1763533316036, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316036 XXXX 1763533316036, Thread 104951: XXXX 1763533316036, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316037 XXXX 1763533316037, Thread 104951: XXXX 1763533316037, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316136 XXXX 1763533316136, Thread 104951: XXXX 1763533316136, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316142 XXXX 1763533316142, Thread 104951: XXXX 1763533316142, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316142 XXXX 1763533316142, Thread 104951: XXXX 1763533316142, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316143 XXXX 1763533316143, Thread 104951: XXXX 1763533316143, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316236 XXXX 1763533316236, Thread 104951: XXXX 1763533316236, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316238 XXXX 1763533316238, Thread 104951: XXXX 1763533316238, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316238 XXXX 1763533316238, Thread 104951: XXXX 1763533316238, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316239 XXXX 1763533316239, Thread 104951: XXXX 1763533316239, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316341 XXXX 1763533316341, Thread 104951: XXXX 1763533316341, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316343 XXXX 1763533316343, Thread 104951: XXXX 1763533316343, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316343 XXXX 1763533316343, Thread 104951: XXXX 1763533316343, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316344 XXXX 1763533316344, Thread 104951: XXXX 1763533316344, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316448 XXXX 1763533316448, Thread 104951: XXXX 1763533316448, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316452 XXXX 1763533316452, Thread 104951: XXXX 1763533316452, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316452 XXXX 1763533316452, Thread 104951: XXXX 1763533316452, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316453 XXXX 1763533316453, Thread 104951: XXXX 1763533316453, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316548 XXXX 1763533316548, Thread 104951: XXXX 1763533316548, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316549 XXXX 1763533316549, Thread 104951: XXXX 1763533316549, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316549 XXXX 1763533316549, Thread 104951: XXXX 1763533316549, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316550 XXXX 1763533316550, Thread 104951: XXXX 1763533316550, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316650 XXXX 1763533316650, Thread 104951: XXXX 1763533316650, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316651 XXXX 1763533316651, Thread 104951: XXXX 1763533316651, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316651 XXXX 1763533316651, Thread 104951: XXXX 1763533316651, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316652 XXXX 1763533316652, Thread 104951: XXXX 1763533316652, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316750 XXXX 1763533316750, Thread 104951: XXXX 1763533316750, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316753 XXXX 1763533316753, Thread 104951: XXXX 1763533316753, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316753 XXXX 1763533316753, Thread 104951: XXXX 1763533316753, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316755 XXXX 1763533316755, Thread 104951: XXXX 1763533316755, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316850 XXXX 1763533316850, Thread 104951: XXXX 1763533316850, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316851 XXXX 1763533316851, Thread 104951: XXXX 1763533316851, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316851 XXXX 1763533316851, Thread 104951: XXXX 1763533316851, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316852 XXXX 1763533316852, Thread 104951: XXXX 1763533316852, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316952 XXXX 1763533316952, Thread 104951: XXXX 1763533316952, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533316953 XXXX 1763533316953, Thread 104951: XXXX 1763533316953, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533316953 XXXX 1763533316953, Thread 104951: XXXX 1763533316953, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533316954 XXXX 1763533316954, Thread 104951: XXXX 1763533316954, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317053 XXXX 1763533317053, Thread 104951: XXXX 1763533317053, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317054 XXXX 1763533317054, Thread 104951: XXXX 1763533317054, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317054 XXXX 1763533317054, Thread 104951: XXXX 1763533317054, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317055 XXXX 1763533317055, Thread 104951: XXXX 1763533317055, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317153 XXXX 1763533317153, Thread 104951: XXXX 1763533317153, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317154 XXXX 1763533317154, Thread 104951: XXXX 1763533317154, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317154 XXXX 1763533317154, Thread 104951: XXXX 1763533317154, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317155 XXXX 1763533317155, Thread 104951: XXXX 1763533317155, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317253 XXXX 1763533317253, Thread 104951: XXXX 1763533317253, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317256 XXXX 1763533317256, Thread 104951: XXXX 1763533317256, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317256 XXXX 1763533317256, Thread 104951: XXXX 1763533317256, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317257 XXXX 1763533317257, Thread 104951: XXXX 1763533317257, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317356 XXXX 1763533317355, Thread 104951: XXXX 1763533317355, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317363 XXXX 1763533317363, Thread 104951: XXXX 1763533317363, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317363 XXXX 1763533317363, Thread 104951: XXXX 1763533317363, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317364 XXXX 1763533317364, Thread 104951: XXXX 1763533317364, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317456 XXXX 1763533317456, Thread 104951: XXXX 1763533317456, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317461 XXXX 1763533317461, Thread 104951: XXXX 1763533317461, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317461 XXXX 1763533317461, Thread 104951: XXXX 1763533317461, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317462 XXXX 1763533317462, Thread 104951: XXXX 1763533317462, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317564 XXXX 1763533317564, Thread 104951: XXXX 1763533317564, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317565 XXXX 1763533317565, Thread 104951: XXXX 1763533317565, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317565 XXXX 1763533317565, Thread 104951: XXXX 1763533317565, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317566 XXXX 1763533317566, Thread 104951: XXXX 1763533317566, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317665 XXXX 1763533317665, Thread 104951: XXXX 1763533317665, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317669 XXXX 1763533317669, Thread 104951: XXXX 1763533317669, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317669 XXXX 1763533317669, Thread 104951: XXXX 1763533317669, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317670 XXXX 1763533317670, Thread 104951: XXXX 1763533317670, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317772 XXXX 1763533317772, Thread 104951: XXXX 1763533317772, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317774 XXXX 1763533317774, Thread 104951: XXXX 1763533317774, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317774 XXXX 1763533317774, Thread 104951: XXXX 1763533317774, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317775 XXXX 1763533317775, Thread 104951: XXXX 1763533317775, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317876 XXXX 1763533317876, Thread 104951: XXXX 1763533317876, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317880 XXXX 1763533317880, Thread 104951: XXXX 1763533317880, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317880 XXXX 1763533317880, Thread 104951: XXXX 1763533317880, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317887 XXXX 1763533317887, Thread 104951: XXXX 1763533317887, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317976 XXXX 1763533317976, Thread 104951: XXXX 1763533317976, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533317981 XXXX 1763533317981, Thread 104951: XXXX 1763533317981, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533317981 XXXX 1763533317981, Thread 104951: XXXX 1763533317981, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533317982 XXXX 1763533317982, Thread 104951: XXXX 1763533317982, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318077 XXXX 1763533318077, Thread 104951: XXXX 1763533318077, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318078 XXXX 1763533318078, Thread 104951: XXXX 1763533318078, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318078 XXXX 1763533318078, Thread 104951: XXXX 1763533318078, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318079 XXXX 1763533318079, Thread 104951: XXXX 1763533318079, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318178 XXXX 1763533318178, Thread 104951: XXXX 1763533318178, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318184 XXXX 1763533318184, Thread 104951: XXXX 1763533318184, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318184 XXXX 1763533318184, Thread 104951: XXXX 1763533318184, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318185 XXXX 1763533318185, Thread 104951: XXXX 1763533318185, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318283 XXXX 1763533318283, Thread 104951: XXXX 1763533318283, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318286 XXXX 1763533318286, Thread 104951: XXXX 1763533318286, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318286 XXXX 1763533318286, Thread 104951: XXXX 1763533318286, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318287 XXXX 1763533318287, Thread 104951: XXXX 1763533318287, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318389 XXXX 1763533318389, Thread 104951: XXXX 1763533318389, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318391 XXXX 1763533318391, Thread 104951: XXXX 1763533318391, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318391 XXXX 1763533318391, Thread 104951: XXXX 1763533318391, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318392 XXXX 1763533318392, Thread 104951: XXXX 1763533318392, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318491 XXXX 1763533318491, Thread 104951: XXXX 1763533318491, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318499 XXXX 1763533318499, Thread 104951: XXXX 1763533318499, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318499 XXXX 1763533318499, Thread 104951: XXXX 1763533318499, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318500 XXXX 1763533318500, Thread 104951: XXXX 1763533318500, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318591 XXXX 1763533318591, Thread 104951: XXXX 1763533318591, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318596 XXXX 1763533318596, Thread 104951: XXXX 1763533318596, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318596 XXXX 1763533318596, Thread 104951: XXXX 1763533318596, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318597 XXXX 1763533318597, Thread 104951: XXXX 1763533318597, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318692 XXXX 1763533318692, Thread 104951: XXXX 1763533318692, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318694 XXXX 1763533318694, Thread 104951: XXXX 1763533318694, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318694 XXXX 1763533318694, Thread 104951: XXXX 1763533318694, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318695 XXXX 1763533318695, Thread 104951: XXXX 1763533318695, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318792 XXXX 1763533318792, Thread 104951: XXXX 1763533318792, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318795 XXXX 1763533318795, Thread 104951: XXXX 1763533318795, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318795 XXXX 1763533318795, Thread 104951: XXXX 1763533318795, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318796 XXXX 1763533318796, Thread 104951: XXXX 1763533318796, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318897 XXXX 1763533318897, Thread 104951: XXXX 1763533318897, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533318898 XXXX 1763533318898, Thread 104951: XXXX 1763533318898, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318898 XXXX 1763533318898, Thread 104951: XXXX 1763533318898, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533318899 XXXX 1763533318899, Thread 104951: XXXX 1763533318899, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533318999 XXXX 1763533318999, Thread 104951: XXXX 1763533318999, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319012 XXXX 1763533319012, Thread 104951: XXXX 1763533319002, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319012 XXXX 1763533319012, Thread 104951: XXXX 1763533319012, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319013 XXXX 1763533319013, Thread 104951: XXXX 1763533319013, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319100 XXXX 1763533319100, Thread 104951: XXXX 1763533319100, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319103 XXXX 1763533319103, Thread 104951: XXXX 1763533319103, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319103 XXXX 1763533319103, Thread 104951: XXXX 1763533319103, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319104 XXXX 1763533319104, Thread 104951: XXXX 1763533319104, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319200 XXXX 1763533319200, Thread 104951: XXXX 1763533319200, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319204 XXXX 1763533319204, Thread 104951: XXXX 1763533319204, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319204 XXXX 1763533319204, Thread 104951: XXXX 1763533319204, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319205 XXXX 1763533319205, Thread 104951: XXXX 1763533319205, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319305 XXXX 1763533319305, Thread 104951: XXXX 1763533319305, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319308 XXXX 1763533319308, Thread 104951: XXXX 1763533319308, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319308 XXXX 1763533319308, Thread 104951: XXXX 1763533319308, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319309 XXXX 1763533319309, Thread 104951: XXXX 1763533319309, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319406 XXXX 1763533319406, Thread 104951: XXXX 1763533319406, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319407 XXXX 1763533319407, Thread 104951: XXXX 1763533319407, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319407 XXXX 1763533319407, Thread 104951: XXXX 1763533319407, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319408 XXXX 1763533319408, Thread 104951: XXXX 1763533319408, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319528 XXXX 1763533319528, Thread 104951: XXXX 1763533319528, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319531 XXXX 1763533319531, Thread 104951: XXXX 1763533319531, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319531 XXXX 1763533319531, Thread 104951: XXXX 1763533319531, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319532 XXXX 1763533319532, Thread 104951: XXXX 1763533319532, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319629 XXXX 1763533319629, Thread 104951: XXXX 1763533319629, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319631 XXXX 1763533319631, Thread 104951: XXXX 1763533319631, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319631 XXXX 1763533319631, Thread 104951: XXXX 1763533319631, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319632 XXXX 1763533319632, Thread 104951: XXXX 1763533319632, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319729 XXXX 1763533319729, Thread 104951: XXXX 1763533319729, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319732 XXXX 1763533319732, Thread 104951: XXXX 1763533319732, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319732 XXXX 1763533319732, Thread 104951: XXXX 1763533319732, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319733 XXXX 1763533319733, Thread 104951: XXXX 1763533319733, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319832 XXXX 1763533319832, Thread 104951: XXXX 1763533319832, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319833 XXXX 1763533319833, Thread 104951: XXXX 1763533319833, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319833 XXXX 1763533319833, Thread 104951: XXXX 1763533319833, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319834 XXXX 1763533319834, Thread 104951: XXXX 1763533319834, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319932 XXXX 1763533319932, Thread 104951: XXXX 1763533319932, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533319933 XXXX 1763533319933, Thread 104951: XXXX 1763533319933, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533319933 XXXX 1763533319933, Thread 104951: XXXX 1763533319933, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533319934 XXXX 1763533319934, Thread 104951: XXXX 1763533319934, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320032 XXXX 1763533320032, Thread 104951: XXXX 1763533320032, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320034 XXXX 1763533320034, Thread 104951: XXXX 1763533320034, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320034 XXXX 1763533320034, Thread 104951: XXXX 1763533320034, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320035 XXXX 1763533320035, Thread 104951: XXXX 1763533320035, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320132 XXXX 1763533320132, Thread 104951: XXXX 1763533320132, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320133 XXXX 1763533320133, Thread 104951: XXXX 1763533320133, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320133 XXXX 1763533320133, Thread 104951: XXXX 1763533320133, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320134 XXXX 1763533320134, Thread 104951: XXXX 1763533320134, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320232 XXXX 1763533320232, Thread 104951: XXXX 1763533320232, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320234 XXXX 1763533320234, Thread 104951: XXXX 1763533320234, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320234 XXXX 1763533320234, Thread 104951: XXXX 1763533320234, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320235 XXXX 1763533320235, Thread 104951: XXXX 1763533320235, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320335 XXXX 1763533320335, Thread 104951: XXXX 1763533320335, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320336 XXXX 1763533320336, Thread 104951: XXXX 1763533320336, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320336 XXXX 1763533320336, Thread 104951: XXXX 1763533320336, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320337 XXXX 1763533320337, Thread 104951: XXXX 1763533320337, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320435 XXXX 1763533320435, Thread 104951: XXXX 1763533320435, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320437 XXXX 1763533320437, Thread 104951: XXXX 1763533320437, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320437 XXXX 1763533320437, Thread 104951: XXXX 1763533320437, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320438 XXXX 1763533320438, Thread 104951: XXXX 1763533320438, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320537 XXXX 1763533320537, Thread 104951: XXXX 1763533320537, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320538 XXXX 1763533320538, Thread 104951: XXXX 1763533320538, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320538 XXXX 1763533320538, Thread 104951: XXXX 1763533320538, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320541 XXXX 1763533320541, Thread 104951: XXXX 1763533320541, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320638 XXXX 1763533320638, Thread 104951: XXXX 1763533320638, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320642 XXXX 1763533320642, Thread 104951: XXXX 1763533320642, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320642 XXXX 1763533320642, Thread 104951: XXXX 1763533320642, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320643 XXXX 1763533320643, Thread 104951: XXXX 1763533320643, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320739 XXXX 1763533320739, Thread 104951: XXXX 1763533320739, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320742 XXXX 1763533320742, Thread 104951: XXXX 1763533320742, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320742 XXXX 1763533320742, Thread 104951: XXXX 1763533320742, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320743 XXXX 1763533320743, Thread 104951: XXXX 1763533320743, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320843 XXXX 1763533320843, Thread 104951: XXXX 1763533320843, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320845 XXXX 1763533320845, Thread 104951: XXXX 1763533320845, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320845 XXXX 1763533320845, Thread 104951: XXXX 1763533320845, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320846 XXXX 1763533320846, Thread 104951: XXXX 1763533320846, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320946 XXXX 1763533320946, Thread 104951: XXXX 1763533320946, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533320950 XXXX 1763533320950, Thread 104951: XXXX 1763533320950, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533320950 XXXX 1763533320950, Thread 104951: XXXX 1763533320950, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533320951 XXXX 1763533320951, Thread 104951: XXXX 1763533320951, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321049 XXXX 1763533321049, Thread 104951: XXXX 1763533321049, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321056 XXXX 1763533321056, Thread 104951: XXXX 1763533321056, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321056 XXXX 1763533321056, Thread 104951: XXXX 1763533321056, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321057 XXXX 1763533321057, Thread 104951: XXXX 1763533321057, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321158 XXXX 1763533321152, Thread 104951: XXXX 1763533321152, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321161 XXXX 1763533321161, Thread 104951: XXXX 1763533321161, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321161 XXXX 1763533321161, Thread 104951: XXXX 1763533321161, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321162 XXXX 1763533321162, Thread 104951: XXXX 1763533321162, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321253 XXXX 1763533321253, Thread 104951: XXXX 1763533321253, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321262 XXXX 1763533321262, Thread 104951: XXXX 1763533321262, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321262 XXXX 1763533321262, Thread 104951: XXXX 1763533321262, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321263 XXXX 1763533321263, Thread 104951: XXXX 1763533321263, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321361 XXXX 1763533321361, Thread 104951: XXXX 1763533321361, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321365 XXXX 1763533321365, Thread 104951: XXXX 1763533321365, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321365 XXXX 1763533321365, Thread 104951: XXXX 1763533321365, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321366 XXXX 1763533321366, Thread 104951: XXXX 1763533321366, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321468 XXXX 1763533321468, Thread 104951: XXXX 1763533321468, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321477 XXXX 1763533321477, Thread 104951: XXXX 1763533321477, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321477 XXXX 1763533321477, Thread 104951: XXXX 1763533321477, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321478 XXXX 1763533321478, Thread 104951: XXXX 1763533321478, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321568 XXXX 1763533321568, Thread 104951: XXXX 1763533321568, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321578 XXXX 1763533321578, Thread 104951: XXXX 1763533321578, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321578 XXXX 1763533321578, Thread 104951: XXXX 1763533321578, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321579 XXXX 1763533321579, Thread 104951: XXXX 1763533321579, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321670 XXXX 1763533321670, Thread 104951: XXXX 1763533321670, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321675 XXXX 1763533321675, Thread 104951: XXXX 1763533321675, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321690 XXXX 1763533321690, Thread 104951: XXXX 1763533321675, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321691 XXXX 1763533321691, Thread 104951: XXXX 1763533321691, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321774 XXXX 1763533321774, Thread 104951: XXXX 1763533321774, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321784 XXXX 1763533321784, Thread 104951: XXXX 1763533321784, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321784 XXXX 1763533321784, Thread 104951: XXXX 1763533321784, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321785 XXXX 1763533321785, Thread 104951: XXXX 1763533321785, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321883 XXXX 1763533321883, Thread 104951: XXXX 1763533321883, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533321894 XXXX 1763533321894, Thread 104951: XXXX 1763533321894, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533321894 XXXX 1763533321894, Thread 104951: XXXX 1763533321894, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533321895 XXXX 1763533321895, Thread 104951: XXXX 1763533321895, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322000 XXXX 1763533322000, Thread 104951: XXXX 1763533322000, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322011 XXXX 1763533322011, Thread 104951: XXXX 1763533322011, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322011 XXXX 1763533322011, Thread 104951: XXXX 1763533322011, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322012 XXXX 1763533322012, Thread 104951: XXXX 1763533322012, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322104 XXXX 1763533322104, Thread 104951: XXXX 1763533322104, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322111 XXXX 1763533322111, Thread 104951: XXXX 1763533322111, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322111 XXXX 1763533322111, Thread 104951: XXXX 1763533322111, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322112 XXXX 1763533322112, Thread 104951: XXXX 1763533322112, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322205 XXXX 1763533322205, Thread 104951: XXXX 1763533322205, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322212 XXXX 1763533322212, Thread 104951: XXXX 1763533322212, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322212 XXXX 1763533322212, Thread 104951: XXXX 1763533322212, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322212 XXXX 1763533322212, Thread 104951: XXXX 1763533322212, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322315 XXXX 1763533322315, Thread 104951: XXXX 1763533322315, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322322 XXXX 1763533322322, Thread 104951: XXXX 1763533322322, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322322 XXXX 1763533322322, Thread 104951: XXXX 1763533322322, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322323 XXXX 1763533322323, Thread 104951: XXXX 1763533322323, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322425 XXXX 1763533322425, Thread 104951: XXXX 1763533322425, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322433 XXXX 1763533322433, Thread 104951: XXXX 1763533322433, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322433 XXXX 1763533322433, Thread 104951: XXXX 1763533322433, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322434 XXXX 1763533322434, Thread 104951: XXXX 1763533322434, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322556 XXXX 1763533322556, Thread 104951: XXXX 1763533322556, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322566 XXXX 1763533322566, Thread 104951: XXXX 1763533322566, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322566 XXXX 1763533322566, Thread 104951: XXXX 1763533322566, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322567 XXXX 1763533322567, Thread 104951: XXXX 1763533322567, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322658 XXXX 1763533322658, Thread 104951: XXXX 1763533322658, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322663 XXXX 1763533322663, Thread 104951: XXXX 1763533322663, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322663 XXXX 1763533322663, Thread 104951: XXXX 1763533322663, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322664 XXXX 1763533322664, Thread 104951: XXXX 1763533322664, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322762 XXXX 1763533322762, Thread 104951: XXXX 1763533322762, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322767 XXXX 1763533322767, Thread 104951: XXXX 1763533322767, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322767 XXXX 1763533322767, Thread 104951: XXXX 1763533322767, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322768 XXXX 1763533322768, Thread 104951: XXXX 1763533322768, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322876 XXXX 1763533322876, Thread 104951: XXXX 1763533322876, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322894 XXXX 1763533322894, Thread 104951: XXXX 1763533322894, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322894 XXXX 1763533322894, Thread 104951: XXXX 1763533322894, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322895 XXXX 1763533322895, Thread 104951: XXXX 1763533322895, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322978 XXXX 1763533322978, Thread 104951: XXXX 1763533322978, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533322988 XXXX 1763533322988, Thread 104951: XXXX 1763533322988, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533322988 XXXX 1763533322988, Thread 104951: XXXX 1763533322988, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533322989 XXXX 1763533322989, Thread 104951: XXXX 1763533322989, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323087 XXXX 1763533323087, Thread 104951: XXXX 1763533323087, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323096 XXXX 1763533323096, Thread 104951: XXXX 1763533323096, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323096 XXXX 1763533323096, Thread 104951: XXXX 1763533323096, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323097 XXXX 1763533323097, Thread 104951: XXXX 1763533323097, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323190 XXXX 1763533323190, Thread 104951: XXXX 1763533323190, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323202 XXXX 1763533323202, Thread 104951: XXXX 1763533323202, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323202 XXXX 1763533323202, Thread 104951: XXXX 1763533323202, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323203 XXXX 1763533323203, Thread 104951: XXXX 1763533323203, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323295 XXXX 1763533323295, Thread 104951: XXXX 1763533323295, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323302 XXXX 1763533323302, Thread 104951: XXXX 1763533323302, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323302 XXXX 1763533323302, Thread 104951: XXXX 1763533323302, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323303 XXXX 1763533323303, Thread 104951: XXXX 1763533323303, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323406 XXXX 1763533323406, Thread 104951: XXXX 1763533323406, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323414 XXXX 1763533323414, Thread 104951: XXXX 1763533323414, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323414 XXXX 1763533323414, Thread 104951: XXXX 1763533323414, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323416 XXXX 1763533323416, Thread 104951: XXXX 1763533323416, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323522 XXXX 1763533323522, Thread 104951: XXXX 1763533323522, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323527 XXXX 1763533323527, Thread 104951: XXXX 1763533323527, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323527 XXXX 1763533323527, Thread 104951: XXXX 1763533323527, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323528 XXXX 1763533323528, Thread 104951: XXXX 1763533323528, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323626 XXXX 1763533323626, Thread 104951: XXXX 1763533323626, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323634 XXXX 1763533323634, Thread 104951: XXXX 1763533323634, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323634 XXXX 1763533323634, Thread 104951: XXXX 1763533323634, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323635 XXXX 1763533323635, Thread 104951: XXXX 1763533323635, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323731 XXXX 1763533323731, Thread 104951: XXXX 1763533323731, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323741 XXXX 1763533323741, Thread 104951: XXXX 1763533323741, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323741 XXXX 1763533323741, Thread 104951: XXXX 1763533323741, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323742 XXXX 1763533323742, Thread 104951: XXXX 1763533323742, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323842 XXXX 1763533323842, Thread 104951: XXXX 1763533323842, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323845 XXXX 1763533323845, Thread 104951: XXXX 1763533323845, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323845 XXXX 1763533323845, Thread 104951: XXXX 1763533323845, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323846 XXXX 1763533323846, Thread 104951: XXXX 1763533323846, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323958 XXXX 1763533323958, Thread 104951: XXXX 1763533323958, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533323965 XXXX 1763533323965, Thread 104951: XXXX 1763533323965, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533323965 XXXX 1763533323965, Thread 104951: XXXX 1763533323965, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533323966 XXXX 1763533323966, Thread 104951: XXXX 1763533323966, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324087 XXXX 1763533324087, Thread 104951: XXXX 1763533324087, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324095 XXXX 1763533324095, Thread 104951: XXXX 1763533324095, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324095 XXXX 1763533324095, Thread 104951: XXXX 1763533324095, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324096 XXXX 1763533324096, Thread 104951: XXXX 1763533324096, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324178 XXXX 1763533324178, Thread 104951: XXXX 1763533324178, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324188 XXXX 1763533324188, Thread 104951: XXXX 1763533324188, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324188 XXXX 1763533324188, Thread 104951: XXXX 1763533324188, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324189 XXXX 1763533324189, Thread 104951: XXXX 1763533324189, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324291 XXXX 1763533324291, Thread 104951: XXXX 1763533324291, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324299 XXXX 1763533324299, Thread 104951: XXXX 1763533324299, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324299 XXXX 1763533324299, Thread 104951: XXXX 1763533324299, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324300 XXXX 1763533324300, Thread 104951: XXXX 1763533324300, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324394 XXXX 1763533324394, Thread 104951: XXXX 1763533324394, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324404 XXXX 1763533324404, Thread 104951: XXXX 1763533324404, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324404 XXXX 1763533324404, Thread 104951: XXXX 1763533324404, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324405 XXXX 1763533324405, Thread 104951: XXXX 1763533324405, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324500 XXXX 1763533324500, Thread 104951: XXXX 1763533324500, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324507 XXXX 1763533324507, Thread 104951: XXXX 1763533324507, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324507 XXXX 1763533324507, Thread 104951: XXXX 1763533324507, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324508 XXXX 1763533324508, Thread 104951: XXXX 1763533324508, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324609 XXXX 1763533324609, Thread 104951: XXXX 1763533324609, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324626 XXXX 1763533324626, Thread 104951: XXXX 1763533324626, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324626 XXXX 1763533324626, Thread 104951: XXXX 1763533324626, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324628 XXXX 1763533324628, Thread 104951: XXXX 1763533324628, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324723 XXXX 1763533324723, Thread 104951: XXXX 1763533324723, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324732 XXXX 1763533324732, Thread 104951: XXXX 1763533324732, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324732 XXXX 1763533324732, Thread 104951: XXXX 1763533324732, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324733 XXXX 1763533324733, Thread 104951: XXXX 1763533324733, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324828 XXXX 1763533324828, Thread 104951: XXXX 1763533324828, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324834 XXXX 1763533324834, Thread 104951: XXXX 1763533324834, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324834 XXXX 1763533324834, Thread 104951: XXXX 1763533324834, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324835 XXXX 1763533324835, Thread 104951: XXXX 1763533324835, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324934 XXXX 1763533324934, Thread 104951: XXXX 1763533324934, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533324943 XXXX 1763533324943, Thread 104951: XXXX 1763533324943, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533324943 XXXX 1763533324943, Thread 104951: XXXX 1763533324943, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533324944 XXXX 1763533324944, Thread 104951: XXXX 1763533324944, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325043 XXXX 1763533325043, Thread 104951: XXXX 1763533325043, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325053 XXXX 1763533325053, Thread 104951: XXXX 1763533325053, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325053 XXXX 1763533325053, Thread 104951: XXXX 1763533325053, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325054 XXXX 1763533325054, Thread 104951: XXXX 1763533325054, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325153 XXXX 1763533325153, Thread 104951: XXXX 1763533325153, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325157 XXXX 1763533325157, Thread 104951: XXXX 1763533325157, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325157 XXXX 1763533325157, Thread 104951: XXXX 1763533325157, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325171 XXXX 1763533325171, Thread 104951: XXXX 1763533325171, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325262 XXXX 1763533325262, Thread 104951: XXXX 1763533325262, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325270 XXXX 1763533325270, Thread 104951: XXXX 1763533325270, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325270 XXXX 1763533325270, Thread 104951: XXXX 1763533325270, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325271 XXXX 1763533325271, Thread 104951: XXXX 1763533325271, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325373 XXXX 1763533325373, Thread 104951: XXXX 1763533325373, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325387 XXXX 1763533325387, Thread 104951: XXXX 1763533325387, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325387 XXXX 1763533325387, Thread 104951: XXXX 1763533325387, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325388 XXXX 1763533325388, Thread 104951: XXXX 1763533325388, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325479 XXXX 1763533325479, Thread 104951: XXXX 1763533325479, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325485 XXXX 1763533325485, Thread 104951: XXXX 1763533325485, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325485 XXXX 1763533325485, Thread 104951: XXXX 1763533325485, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325486 XXXX 1763533325486, Thread 104951: XXXX 1763533325486, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325583 XXXX 1763533325583, Thread 104951: XXXX 1763533325583, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325593 XXXX 1763533325593, Thread 104951: XXXX 1763533325593, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325593 XXXX 1763533325593, Thread 104951: XXXX 1763533325593, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325594 XXXX 1763533325594, Thread 104951: XXXX 1763533325594, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325683 XXXX 1763533325683, Thread 104951: XXXX 1763533325683, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325691 XXXX 1763533325691, Thread 104951: XXXX 1763533325691, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325691 XXXX 1763533325691, Thread 104951: XXXX 1763533325691, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325692 XXXX 1763533325692, Thread 104951: XXXX 1763533325692, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325795 XXXX 1763533325795, Thread 104951: XXXX 1763533325795, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325834 XXXX 1763533325834, Thread 104951: XXXX 1763533325834, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325834 XXXX 1763533325834, Thread 104951: XXXX 1763533325834, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325835 XXXX 1763533325835, Thread 104951: XXXX 1763533325835, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325899 XXXX 1763533325899, Thread 104951: XXXX 1763533325899, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533325907 XXXX 1763533325907, Thread 104951: XXXX 1763533325907, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533325907 XXXX 1763533325907, Thread 104951: XXXX 1763533325907, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533325908 XXXX 1763533325908, Thread 104951: XXXX 1763533325908, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326002 XXXX 1763533326002, Thread 104951: XXXX 1763533326002, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326015 XXXX 1763533326015, Thread 104951: XXXX 1763533326015, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326015 XXXX 1763533326015, Thread 104951: XXXX 1763533326015, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326017 XXXX 1763533326017, Thread 104951: XXXX 1763533326017, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326106 XXXX 1763533326106, Thread 104951: XXXX 1763533326106, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326117 XXXX 1763533326117, Thread 104951: XXXX 1763533326117, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326117 XXXX 1763533326117, Thread 104951: XXXX 1763533326117, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326118 XXXX 1763533326118, Thread 104951: XXXX 1763533326118, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326210 XXXX 1763533326210, Thread 104951: XXXX 1763533326210, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326220 XXXX 1763533326220, Thread 104951: XXXX 1763533326220, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326220 XXXX 1763533326220, Thread 104951: XXXX 1763533326220, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326221 XXXX 1763533326221, Thread 104951: XXXX 1763533326221, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326325 XXXX 1763533326325, Thread 104951: XXXX 1763533326325, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326330 XXXX 1763533326330, Thread 104951: XXXX 1763533326330, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326330 XXXX 1763533326330, Thread 104951: XXXX 1763533326330, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326348 XXXX 1763533326348, Thread 104951: XXXX 1763533326348, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326425 XXXX 1763533326425, Thread 104951: XXXX 1763533326425, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326429 XXXX 1763533326429, Thread 104951: XXXX 1763533326429, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326429 XXXX 1763533326429, Thread 104951: XXXX 1763533326429, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326430 XXXX 1763533326430, Thread 104951: XXXX 1763533326430, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326541 XXXX 1763533326541, Thread 104951: XXXX 1763533326541, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326552 XXXX 1763533326552, Thread 104951: XXXX 1763533326552, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326552 XXXX 1763533326552, Thread 104951: XXXX 1763533326552, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326553 XXXX 1763533326553, Thread 104951: XXXX 1763533326553, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326688 XXXX 1763533326688, Thread 104951: XXXX 1763533326688, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326694 XXXX 1763533326694, Thread 104951: XXXX 1763533326694, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326694 XXXX 1763533326694, Thread 104951: XXXX 1763533326694, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326695 XXXX 1763533326695, Thread 104951: XXXX 1763533326695, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326800 XXXX 1763533326800, Thread 104951: XXXX 1763533326800, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326811 XXXX 1763533326811, Thread 104951: XXXX 1763533326811, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326811 XXXX 1763533326811, Thread 104951: XXXX 1763533326811, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326813 XXXX 1763533326813, Thread 104951: XXXX 1763533326813, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326914 XXXX 1763533326914, Thread 104951: XXXX 1763533326914, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533326925 XXXX 1763533326925, Thread 104951: XXXX 1763533326925, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533326925 XXXX 1763533326925, Thread 104951: XXXX 1763533326925, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533326926 XXXX 1763533326926, Thread 104951: XXXX 1763533326926, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327046 XXXX 1763533327046, Thread 104951: XXXX 1763533327046, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533327055 XXXX 1763533327055, Thread 104951: XXXX 1763533327055, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327055 XXXX 1763533327055, Thread 104951: XXXX 1763533327055, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533327056 XXXX 1763533327056, Thread 104951: XXXX 1763533327056, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327149 XXXX 1763533327149, Thread 104951: XXXX 1763533327149, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533327155 XXXX 1763533327155, Thread 104951: XXXX 1763533327155, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327155 XXXX 1763533327155, Thread 104951: XXXX 1763533327155, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533327156 XXXX 1763533327156, Thread 104951: XXXX 1763533327156, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327250 XXXX 1763533327250, Thread 104951: XXXX 1763533327250, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533327262 XXXX 1763533327262, Thread 104951: XXXX 1763533327262, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327262 XXXX 1763533327262, Thread 104951: XXXX 1763533327262, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533327263 XXXX 1763533327263, Thread 104951: XXXX 1763533327263, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327358 XXXX 1763533327358, Thread 104951: XXXX 1763533327358, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533327369 XXXX 1763533327369, Thread 104951: XXXX 1763533327369, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327369 XXXX 1763533327369, Thread 104951: XXXX 1763533327369, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533327370 XXXX 1763533327370, Thread 104951: XXXX 1763533327370, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327466 XXXX 1763533327466, Thread 104951: XXXX 1763533327466, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533327474 XXXX 1763533327474, Thread 104951: XXXX 1763533327474, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327474 XXXX 1763533327474, Thread 104951: XXXX 1763533327474, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533327475 XXXX 1763533327475, Thread 104951: XXXX 1763533327475, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327573 XXXX 1763533327573, Thread 104951: XXXX 1763533327573, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533327613 XXXX 1763533327613, Thread 104951: XXXX 1763533327613, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533327613 XXXX 1763533327613, Thread 104951: XXXX 1763533327613, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533327614 XXXX 1763533327614, Thread 104951: XXXX 1763533327614, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328029 XXXX 1763533328029, Thread 104951: XXXX 1763533328029, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328033 XXXX 1763533328033, Thread 104951: XXXX 1763533328033, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328033 XXXX 1763533328033, Thread 104951: XXXX 1763533328033, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328034 XXXX 1763533328034, Thread 104951: XXXX 1763533328034, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328139 XXXX 1763533328139, Thread 104951: XXXX 1763533328139, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328149 XXXX 1763533328149, Thread 104951: XXXX 1763533328149, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328149 XXXX 1763533328149, Thread 104951: XXXX 1763533328149, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328150 XXXX 1763533328150, Thread 104951: XXXX 1763533328150, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328255 XXXX 1763533328255, Thread 104951: XXXX 1763533328255, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328267 XXXX 1763533328267, Thread 104951: XXXX 1763533328267, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328267 XXXX 1763533328267, Thread 104951: XXXX 1763533328267, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328268 XXXX 1763533328268, Thread 104951: XXXX 1763533328268, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328384 XXXX 1763533328384, Thread 104951: XXXX 1763533328384, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328396 XXXX 1763533328396, Thread 104951: XXXX 1763533328396, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328396 XXXX 1763533328396, Thread 104951: XXXX 1763533328396, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328396 XXXX 1763533328396, Thread 104951: XXXX 1763533328396, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328497 XXXX 1763533328497, Thread 104951: XXXX 1763533328497, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328513 XXXX 1763533328513, Thread 104951: XXXX 1763533328513, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328513 XXXX 1763533328513, Thread 104951: XXXX 1763533328513, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328541 XXXX 1763533328541, Thread 104951: XXXX 1763533328541, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328606 XXXX 1763533328606, Thread 104951: XXXX 1763533328606, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328618 XXXX 1763533328618, Thread 104951: XXXX 1763533328618, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328618 XXXX 1763533328618, Thread 104951: XXXX 1763533328618, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328619 XXXX 1763533328619, Thread 104951: XXXX 1763533328619, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328722 XXXX 1763533328722, Thread 104951: XXXX 1763533328722, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328733 XXXX 1763533328733, Thread 104951: XXXX 1763533328733, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328733 XXXX 1763533328733, Thread 104951: XXXX 1763533328733, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328734 XXXX 1763533328734, Thread 104951: XXXX 1763533328734, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328827 XXXX 1763533328827, Thread 104951: XXXX 1763533328827, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328840 XXXX 1763533328840, Thread 104951: XXXX 1763533328840, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328840 XXXX 1763533328840, Thread 104951: XXXX 1763533328840, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328841 XXXX 1763533328841, Thread 104951: XXXX 1763533328841, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328953 XXXX 1763533328953, Thread 104951: XXXX 1763533328953, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533328970 XXXX 1763533328970, Thread 104951: XXXX 1763533328970, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533328970 XXXX 1763533328970, Thread 104951: XXXX 1763533328970, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533328970 XXXX 1763533328970, Thread 104951: XXXX 1763533328970, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533329091 XXXX 1763533329091, Thread 104951: XXXX 1763533329091, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533329104 XXXX 1763533329104, Thread 104951: XXXX 1763533329104, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533329104 XXXX 1763533329104, Thread 104951: XXXX 1763533329104, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533329105 XXXX 1763533329105, Thread 104951: XXXX 1763533329105, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533329494 XXXX 1763533329494, Thread 104951: XXXX 1763533329494, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533329526 XXXX 1763533329526, Thread 104951: XXXX 1763533329526, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533329526 XXXX 1763533329526, Thread 104951: XXXX 1763533329526, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533329527 XXXX 1763533329527, Thread 104951: XXXX 1763533329527, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533329615 XXXX 1763533329615, Thread 104951: XXXX 1763533329615, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533329631 XXXX 1763533329631, Thread 104951: XXXX 1763533329631, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533329631 XXXX 1763533329631, Thread 104951: XXXX 1763533329631, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533329632 XXXX 1763533329632, Thread 104951: XXXX 1763533329632, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330002 XXXX 1763533330002, Thread 104951: XXXX 1763533330002, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533330011 XXXX 1763533330011, Thread 104951: XXXX 1763533330011, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330011 XXXX 1763533330011, Thread 104951: XXXX 1763533330011, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533330012 XXXX 1763533330012, Thread 104951: XXXX 1763533330012, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330116 XXXX 1763533330116, Thread 104951: XXXX 1763533330116, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533330129 XXXX 1763533330129, Thread 104951: XXXX 1763533330129, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330129 XXXX 1763533330129, Thread 104951: XXXX 1763533330129, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533330130 XXXX 1763533330130, Thread 104951: XXXX 1763533330130, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330521 XXXX 1763533330521, Thread 104951: XXXX 1763533330521, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533330540 XXXX 1763533330540, Thread 104951: XXXX 1763533330540, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330540 XXXX 1763533330540, Thread 104951: XXXX 1763533330540, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533330541 XXXX 1763533330541, Thread 104951: XXXX 1763533330541, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330942 XXXX 1763533330942, Thread 104951: XXXX 1763533330942, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533330975 XXXX 1763533330975, Thread 104951: XXXX 1763533330975, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533330975 XXXX 1763533330975, Thread 104951: XXXX 1763533330975, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533331054 XXXX 1763533331054, Thread 104951: XXXX 1763533331054, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533331472 XXXX 1763533331472, Thread 104951: XXXX 1763533331472, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533331492 XXXX 1763533331492, Thread 104951: XXXX 1763533331492, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533331492 XXXX 1763533331492, Thread 104951: XXXX 1763533331492, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533331493 XXXX 1763533331493, Thread 104951: XXXX 1763533331493, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533331879 XXXX 1763533331879, Thread 104951: XXXX 1763533331879, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533331900 XXXX 1763533331900, Thread 104951: XXXX 1763533331900, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533331900 XXXX 1763533331900, Thread 104951: XXXX 1763533331900, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533331901 XXXX 1763533331901, Thread 104951: XXXX 1763533331901, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533332335 XXXX 1763533332335, Thread 104951: XXXX 1763533332335, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533332356 XXXX 1763533332356, Thread 104951: XXXX 1763533332356, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533332356 XXXX 1763533332356, Thread 104951: XXXX 1763533332356, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533332357 XXXX 1763533332357, Thread 104951: XXXX 1763533332357, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533332445 XXXX 1763533332445, Thread 104951: XXXX 1763533332445, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533332462 XXXX 1763533332462, Thread 104951: XXXX 1763533332462, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533332462 XXXX 1763533332462, Thread 104951: XXXX 1763533332462, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533332462 XXXX 1763533332462, Thread 104951: XXXX 1763533332462, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533332855 XXXX 1763533332855, Thread 104951: XXXX 1763533332855, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533332898 XXXX 1763533332898, Thread 104951: XXXX 1763533332898, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533332898 XXXX 1763533332898, Thread 104951: XXXX 1763533332898, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533332899 XXXX 1763533332899, Thread 104951: XXXX 1763533332899, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533333343 XXXX 1763533333343, Thread 104951: XXXX 1763533333343, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533333374 XXXX 1763533333374, Thread 104951: XXXX 1763533333374, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533333374 XXXX 1763533333374, Thread 104951: XXXX 1763533333374, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533333375 XXXX 1763533333375, Thread 104951: XXXX 1763533333375, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533333456 XXXX 1763533333456, Thread 104951: XXXX 1763533333456, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533333477 XXXX 1763533333477, Thread 104951: XXXX 1763533333477, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533333477 XXXX 1763533333477, Thread 104951: XXXX 1763533333477, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533333478 XXXX 1763533333478, Thread 104951: XXXX 1763533333478, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533333865 XXXX 1763533333865, Thread 104951: XXXX 1763533333865, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533333873 XXXX 1763533333873, Thread 104951: XXXX 1763533333873, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533333873 XXXX 1763533333873, Thread 104951: XXXX 1763533333873, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533333873 XXXX 1763533333873, Thread 104951: XXXX 1763533333873, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533334276 XXXX 1763533334276, Thread 104951: XXXX 1763533334276, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533334293 XXXX 1763533334293, Thread 104951: XXXX 1763533334293, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533334293 XXXX 1763533334293, Thread 104951: XXXX 1763533334293, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533334294 XXXX 1763533334294, Thread 104951: XXXX 1763533334294, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533334730 XXXX 1763533334730, Thread 104951: XXXX 1763533334730, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533334765 XXXX 1763533334765, Thread 104951: XXXX 1763533334765, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533334765 XXXX 1763533334765, Thread 104951: XXXX 1763533334765, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533334765 XXXX 1763533334765, Thread 104951: XXXX 1763533334765, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533335218 XXXX 1763533335218, Thread 104951: XXXX 1763533335218, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533335268 XXXX 1763533335267, Thread 104951: XXXX 1763533335267, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533335268 XXXX 1763533335268, Thread 104951: XXXX 1763533335268, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533335280 XXXX 1763533335280, Thread 104951: XXXX 1763533335280, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533335751 XXXX 1763533335751, Thread 104951: XXXX 1763533335751, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533335767 XXXX 1763533335767, Thread 104951: XXXX 1763533335767, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533335767 XXXX 1763533335767, Thread 104951: XXXX 1763533335767, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533335768 XXXX 1763533335768, Thread 104951: XXXX 1763533335768, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533335875 XXXX 1763533335875, Thread 104951: XXXX 1763533335875, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533335888 XXXX 1763533335888, Thread 104951: XXXX 1763533335888, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533335888 XXXX 1763533335888, Thread 104951: XXXX 1763533335888, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533335888 XXXX 1763533335888, Thread 104951: XXXX 1763533335888, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533336324 XXXX 1763533336324, Thread 104951: XXXX 1763533336324, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533336343 XXXX 1763533336343, Thread 104951: XXXX 1763533336343, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533336344 XXXX 1763533336344, Thread 104951: XXXX 1763533336344, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533336344 XXXX 1763533336344, Thread 104951: XXXX 1763533336344, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533336748 XXXX 1763533336748, Thread 104951: XXXX 1763533336748, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533336774 XXXX 1763533336774, Thread 104951: XXXX 1763533336774, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533336774 XXXX 1763533336774, Thread 104951: XXXX 1763533336774, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533336845 XXXX 1763533336845, Thread 104951: XXXX 1763533336845, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533337424 XXXX 1763533337424, Thread 104951: XXXX 1763533337424, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533337447 XXXX 1763533337447, Thread 104951: XXXX 1763533337447, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533337447 XXXX 1763533337447, Thread 104951: XXXX 1763533337447, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533337449 XXXX 1763533337449, Thread 104951: XXXX 1763533337449, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533337973 XXXX 1763533337973, Thread 104951: XXXX 1763533337973, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533338026 XXXX 1763533338026, Thread 104951: XXXX 1763533338026, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533338026 XXXX 1763533338026, Thread 104951: XXXX 1763533338026, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533338028 XXXX 1763533338028, Thread 104951: XXXX 1763533338028, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533338591 XXXX 1763533338591, Thread 104951: XXXX 1763533338591, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533338619 XXXX 1763533338619, Thread 104951: XXXX 1763533338619, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533338619 XXXX 1763533338619, Thread 104951: XXXX 1763533338619, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533338620 XXXX 1763533338620, Thread 104951: XXXX 1763533338620, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533339172 XXXX 1763533339172, Thread 104951: XXXX 1763533339172, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533339197 XXXX 1763533339197, Thread 104951: XXXX 1763533339197, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533339197 XXXX 1763533339197, Thread 104951: XXXX 1763533339197, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533339308 XXXX 1763533339308, Thread 104951: XXXX 1763533339308, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533339737 XXXX 1763533339737, Thread 104951: XXXX 1763533339737, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533339744 XXXX 1763533339744, Thread 104951: XXXX 1763533339744, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533339744 XXXX 1763533339744, Thread 104951: XXXX 1763533339744, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533339747 XXXX 1763533339747, Thread 104951: XXXX 1763533339747, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533340355 XXXX 1763533340355, Thread 104951: XXXX 1763533340355, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533340390 XXXX 1763533340390, Thread 104951: XXXX 1763533340390, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533340390 XXXX 1763533340390, Thread 104951: XXXX 1763533340390, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533340391 XXXX 1763533340391, Thread 104951: XXXX 1763533340391, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533340959 XXXX 1763533340959, Thread 104951: XXXX 1763533340959, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533341040 XXXX 1763533341040, Thread 104951: XXXX 1763533341040, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533341040 XXXX 1763533341040, Thread 104951: XXXX 1763533341040, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533341042 XXXX 1763533341042, Thread 104951: XXXX 1763533341042, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533341682 XXXX 1763533341682, Thread 104951: XXXX 1763533341682, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533341713 XXXX 1763533341713, Thread 104951: XXXX 1763533341713, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533341713 XXXX 1763533341713, Thread 104951: XXXX 1763533341713, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533341714 XXXX 1763533341714, Thread 104951: XXXX 1763533341714, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533342324 XXXX 1763533342324, Thread 104951: XXXX 1763533342324, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533342346 XXXX 1763533342346, Thread 104951: XXXX 1763533342346, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533342346 XXXX 1763533342346, Thread 104951: XXXX 1763533342346, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533342347 XXXX 1763533342347, Thread 104951: XXXX 1763533342347, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533343146 XXXX 1763533343146, Thread 104951: XXXX 1763533343146, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533343215 XXXX 1763533343215, Thread 104951: XXXX 1763533343215, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533343215 XXXX 1763533343215, Thread 104951: XXXX 1763533343215, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533343216 XXXX 1763533343216, Thread 104951: XXXX 1763533343216, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533344298 XXXX 1763533344298, Thread 104951: XXXX 1763533344298, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533344361 XXXX 1763533344361, Thread 104951: XXXX 1763533344361, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533344361 XXXX 1763533344361, Thread 104951: XXXX 1763533344361, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533344362 XXXX 1763533344362, Thread 104951: XXXX 1763533344362, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533344880 XXXX 1763533344880, Thread 104951: XXXX 1763533344880, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533344972 XXXX 1763533344972, Thread 104951: XXXX 1763533344972, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533344972 XXXX 1763533344972, Thread 104951: XXXX 1763533344972, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533345067 XXXX 1763533345067, Thread 104951: XXXX 1763533345067, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533345563 XXXX 1763533345563, Thread 104951: XXXX 1763533345563, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533345593 XXXX 1763533345593, Thread 104951: XXXX 1763533345593, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533345593 XXXX 1763533345593, Thread 104951: XXXX 1763533345593, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533345594 XXXX 1763533345594, Thread 104951: XXXX 1763533345594, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533347857 XXXX 1763533347857, Thread 104951: XXXX 1763533347857, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533348087 XXXX 1763533348087, Thread 104951: XXXX 1763533348087, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533348087 XXXX 1763533348087, Thread 104951: XXXX 1763533348087, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533348088 XXXX 1763533348088, Thread 104951: XXXX 1763533348088, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533349259 XXXX 1763533349259, Thread 104951: XXXX 1763533349259, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533349368 XXXX 1763533349368, Thread 104951: XXXX 1763533349368, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533349368 XXXX 1763533349368, Thread 104951: XXXX 1763533349368, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533349369 XXXX 1763533349369, Thread 104951: XXXX 1763533349369, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533350508 XXXX 1763533350508, Thread 104951: XXXX 1763533350508, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533350570 XXXX 1763533350570, Thread 104951: XXXX 1763533350570, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533350570 XXXX 1763533350570, Thread 104951: XXXX 1763533350570, Entering Thread 104951: Commands::runScriptBasic, script name = GetHaltStatus, timeOut = -1 ms  
+104951 1763533350570 XXXX 1763533350570, Thread 104951: XXXX 1763533350570, Exiting Thread 104951: Commands::runScriptBasic  
+104951 1763533354317 XXXX 1763533354317, Thread 104951: XXXX 1763533354317, Entering Thread 104951: Commands::runScriptBasic, script name = ReadBootAuthentication, timeOut = -1 ms  
+104951 1763533370644 XXXX 1763533370644, Thread 104951: com.Send returned false 
+104951 1763533374519 XXXX 1763533374519, Thread 104951: transfer: exception after writeHeaderAndGetResult null 
+104951 1763533375000 XXXX 1763533375000, Thread 104951: XXXX 1763533375000, Entering Thread 104951: ToolCommUsb::recoverFromProtocolError, type = NO_SCRIPT  
+104951 1763533375000 XXXX 1763533375000, Thread 104951: Send Abort Script Engine Command 
+104951 1763533375000 XXXX 1763533375000, Thread 104951: XXXX 1763533375000, Entering Thread 104951: ToolCommUsb::killScriptEngine  
+122 1763533375954 GEN4_CONNECT_DIAGNOSTICS:Calling Update on plug and play observer com.microchip.mplab.mdbcore.RI4Tool.RI4ToolBase$RI4PlugNPlayObserver@48374913
+122 1763533376006 GEN4_CONNECT_DIAGNOSTICS:Entering plug and play Update(). Attached PID = 810b
+122 1763533376006 GEN4_CONNECT_DIAGNOSTICS:Entering MPLABCommEvent handler
+122 1763533376176 GEN4_CONNECT_DIAGNOSTICS:MPLABCommEvent.pid = 810b
+122 1763533376176 GEN4_CONNECT_DIAGNOSTICS:eventType = MPLABCOMM_TOOL_UNPLUGGED
+104951 1763533379486 XXXX 1763533379486, Thread 104951: com.Send returned false 
+104951 1763533379751 XXXX 1763533379751, Thread 104951: Failed sending Abort Script Engine Command. Set nuclear option = true 
+104951 1763533379751 XXXX 1763533379751, Thread 104951: About to nuke 
+104951 1763533379751 XXXX 1763533379751, Thread 104951: XXXX 1763533379751, Entering Thread 104951: ToolCommUsb::nuclearOption  
+122 1763533380146 GEN4_CONNECT_DIAGNOSTICS:Exiting plug and play Update()
+104951 1763533380213 XXXX 1763533380213, Thread 104951: com.Send returned false 

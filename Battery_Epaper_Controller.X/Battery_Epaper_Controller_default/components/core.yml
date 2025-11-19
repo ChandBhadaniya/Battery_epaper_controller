@@ -1,0 +1,2327 @@
+configVersion: 1.0.0
+componentName: core
+coreVersion: 5.8.2
+device: WBZ350
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: core
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: csp
+  type: package
+  version: v3.19.1
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments: {}
+  elementPosition:
+    attributes:
+      id: __ROOTVIEW
+    children:
+    - children:
+      - attributes:
+          id: core
+          x: '360'
+          y: '20'
+        type: ElementPosition
+      type: ElementPositions
+    type: ComponentGraph
+  symbols:
+    NVIC_-1_0_ENABLE:
+      attributes:
+        id: NVIC_-1_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_-1_0_HANDLER:
+      attributes:
+        id: NVIC_-1_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: xPortSysTickHandler
+          type: Dynamic
+        type: Values
+      type: String
+    NVIC_-1_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_-1_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_-2_0_ENABLE:
+      attributes:
+        id: NVIC_-2_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_-2_0_HANDLER:
+      attributes:
+        id: NVIC_-2_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: xPortPendSVHandler
+          type: Dynamic
+        type: Values
+      type: String
+    NVIC_-2_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_-2_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_-5_0_ENABLE:
+      attributes:
+        id: NVIC_-5_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_-5_0_HANDLER:
+      attributes:
+        id: NVIC_-5_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: vPortSVCHandler
+          type: Dynamic
+        type: Values
+      type: String
+    NVIC_-5_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_-5_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_29_0_ENABLE:
+      attributes:
+        id: NVIC_29_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_29_0_HANDLER:
+      attributes:
+        id: NVIC_29_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: QSPI_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    NVIC_29_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_29_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PMD1_REG_VALUE:
+      attributes:
+        id: PMD1_REG_VALUE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '545326031'
+          type: Dynamic
+        type: Values
+      type: Hex
+    PendSV_INTERRUPT_ENABLE:
+      attributes:
+        id: PendSV_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PendSV_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: PendSV_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PendSV_INTERRUPT_HANDLER:
+      attributes:
+        id: PendSV_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: xPortPendSVHandler
+          type: Dynamic
+        type: Values
+      type: String
+    PendSV_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: PendSV_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    QSPI_CLOCK_FREQUENCY:
+      attributes:
+        id: QSPI_CLOCK_FREQUENCY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '0'
+          type: Dynamic
+        type: Values
+      type: Integer
+    QSPI_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: QSPI_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SVCall_INTERRUPT_ENABLE:
+      attributes:
+        id: SVCall_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SVCall_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: SVCall_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SVCall_INTERRUPT_HANDLER:
+      attributes:
+        id: SVCall_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: vPortSVCHandler
+          type: Dynamic
+        type: Values
+      type: String
+    SVCall_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: SVCall_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SysTick_INTERRUPT_ENABLE:
+      attributes:
+        id: SysTick_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SysTick_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: SysTick_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SysTick_INTERRUPT_HANDLER:
+      attributes:
+        id: SysTick_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: xPortSysTickHandler
+          type: Dynamic
+        type: Values
+      type: String
+    SysTick_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: SysTick_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SERCOM0_CORE_CLOCK_FREQUENCY:
+      attributes:
+        id: SERCOM0_CORE_CLOCK_FREQUENCY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '64000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCLK_ID_3_FREQ:
+      attributes:
+        id: GCLK_ID_3_FREQ
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '64000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    CFGPCLKGEN1_REG:
+      attributes:
+        id: CFGPCLKGEN1_REG
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '36864'
+          type: Dynamic
+        type: Values
+      type: Hex
+    GCLK_ID_3_GENSEL:
+      attributes:
+        id: GCLK_ID_3_GENSEL
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: KeyValueSet
+    GCLK_ID_3_CHEN:
+      attributes:
+        id: GCLK_ID_3_CHEN
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    PMD3_REG_VALUE:
+      attributes:
+        id: PMD3_REG_VALUE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '32760'
+          type: Dynamic
+        type: Values
+      type: Hex
+    SERCOM0_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: SERCOM0_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_12_0_ENABLE:
+      attributes:
+        id: NVIC_12_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_12_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_12_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_12_0_HANDLER:
+      attributes:
+        id: NVIC_12_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: SERCOM0_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    SERCOM1_CORE_CLOCK_FREQUENCY:
+      attributes:
+        id: SERCOM1_CORE_CLOCK_FREQUENCY
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '64000000'
+          type: Dynamic
+        type: Values
+      type: Integer
+    SERCOM1_CORE_CLOCK_ENABLE:
+      attributes:
+        id: SERCOM1_CORE_CLOCK_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: sercom1
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SERCOM1_INTERRUPT_ENABLE_UPDATE:
+      attributes:
+        id: SERCOM1_INTERRUPT_ENABLE_UPDATE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_13_0_ENABLE:
+      attributes:
+        id: NVIC_13_0_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SERCOM1_INTERRUPT_ENABLE:
+      attributes:
+        id: SERCOM1_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: sercom1
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_13_0_HANDLER_LOCK:
+      attributes:
+        id: NVIC_13_0_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SERCOM1_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: SERCOM1_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: sercom1
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NVIC_13_0_HANDLER:
+      attributes:
+        id: NVIC_13_0_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: SERCOM1_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    SERCOM1_INTERRUPT_HANDLER:
+      attributes:
+        id: SERCOM1_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: sercom1
+            value: SERCOM1_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    BSP_PIN_2_MODE:
+      attributes:
+        id: BSP_PIN_2_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_6_MODE:
+      attributes:
+        id: BSP_PIN_6_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_19_MODE:
+      attributes:
+        id: BSP_PIN_19_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_20_MODE:
+      attributes:
+        id: BSP_PIN_20_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_23_MODE:
+      attributes:
+        id: BSP_PIN_23_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_3_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_3_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: LED
+          type: User
+        type: Values
+      type: String
+    SYS_PORT_A_TRIS:
+      attributes:
+        id: SYS_PORT_A_TRIS
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '1552'
+          type: Dynamic
+        type: Values
+      type: Hex
+    BSP_PIN_3_DIR:
+      attributes:
+        id: BSP_PIN_3_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_10_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_10_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: EPD_MOSI
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_19_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_19_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: EPD_CLK
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_20_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_20_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: EPD_CSS
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_23_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_23_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: EPD_DC
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_25_MODE:
+      attributes:
+        id: BSP_PIN_25_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_24_MODE:
+      attributes:
+        id: BSP_PIN_24_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_22_MODE:
+      attributes:
+        id: BSP_PIN_22_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_22_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_22_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_22_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_22_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: EPD_RESET
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_23_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_23_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_22_DIR:
+      attributes:
+        id: BSP_PIN_22_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_23_DIR:
+      attributes:
+        id: BSP_PIN_23_DIR
+      children:
+      - children:
+        - attributes:
+            value: Out
+          type: User
+        type: Values
+      type: String
+    USE_PPS_OUTPUT_0:
+      attributes:
+        id: USE_PPS_OUTPUT_0
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    SYS_PORT_PPS_OUTPUT_PIN_0:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_PIN_0
+      children:
+      - children:
+        - attributes:
+            id: pairs
+          children:
+          - children:
+            - attributes:
+                description: RPB2G4R
+                key: RPB2
+                value: RPB2G4R
+              type: Pair
+            - attributes:
+                description: RPB3G4R
+                key: RPB3
+                value: RPB3G4R
+              type: Pair
+            - attributes:
+                description: RPB0G2R
+                key: RPB0
+                value: RPB0G2R
+              type: Pair
+            - attributes:
+                description: RPA10G4R
+                key: RPA10
+                value: RPA10G4R
+              type: Pair
+            - attributes:
+                description: RPB1G3R
+                key: RPB1
+                value: RPB1G3R
+              type: Pair
+            - attributes:
+                description: RPB10G4R
+                key: RPB10
+                value: RPB10G4R
+              type: Pair
+            - attributes:
+                description: RPB11G4R
+                key: RPB11
+                value: RPB11G4R
+              type: Pair
+            - attributes:
+                description: RPB12G2R
+                key: RPB12
+                value: RPB12G2R
+              type: Pair
+            - attributes:
+                description: RPA13G4R
+                key: RPA13
+                value: RPA13G4R
+              type: Pair
+            - attributes:
+                description: RPB13G3R
+                key: RPB13
+                value: RPB13G3R
+              type: Pair
+            - attributes:
+                description: RPA14G4R
+                key: RPA14
+                value: RPA14G4R
+              type: Pair
+            - attributes:
+                description: RPB8G2R
+                key: RPB8
+                value: RPB8G2R
+              type: Pair
+            - attributes:
+                description: RPB9G3R
+                key: RPB9
+                value: RPB9G3R
+              type: Pair
+            - attributes:
+                description: RPB6G3R
+                key: RPB6
+                value: RPB6G3R
+              type: Pair
+            - attributes:
+                description: RPB7G4R
+                key: RPB7
+                value: RPB7G4R
+              type: Pair
+            - attributes:
+                description: RPB4G2R
+                key: RPB4
+                value: RPB4G2R
+              type: Pair
+            - attributes:
+                description: RPB5G2R
+                key: RPB5
+                value: RPB5G2R
+              type: Pair
+            - attributes:
+                description: RPA1G4R
+                key: RPA1
+                value: RPA1G4R
+              type: Pair
+            - attributes:
+                description: RPA2G4R
+                key: RPA2
+                value: RPA2G4R
+              type: Pair
+            - attributes:
+                description: RPA0G3R
+                key: RPA0
+                value: RPA0G3R
+              type: Pair
+            - attributes:
+                description: RPA9G4R
+                key: RPA9
+                value: RPA9G4R
+              type: Pair
+            - attributes:
+                description: RPA7G2R
+                key: RPA7
+                value: RPA7G2R
+              type: Pair
+            - attributes:
+                description: RPA8G4R
+                key: RPA8
+                value: RPA8G4R
+              type: Pair
+            - attributes:
+                description: RPA5G4R
+                key: RPA5
+                value: RPA5G1R
+              type: Pair
+            - attributes:
+                description: RPA6G4R
+                key: RPA6
+                value: RPA6G4R
+              type: Pair
+            - attributes:
+                description: RPA3G2R
+                key: RPA3
+                value: RPA3G2R
+              type: Pair
+            - attributes:
+                description: RPA4G3R
+                key: RPA4
+                value: RPA4G3R
+              type: Pair
+            type: Pairs
+          type: KeyValuePairList
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '23'
+          type: User
+        type: Values
+      type: KeyValueSet
+    SYS_PORT_PPS_OUTPUT_FUNCTION_0:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_FUNCTION_0
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '16'
+          type: User
+        type: Values
+      type: KeyValueSet
+    BSP_PIN_19_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_19_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: SERCOM0_PAD1 (out)
+          type: User
+        type: Values
+      type: String
+    USE_PPS_OUTPUT_1:
+      attributes:
+        id: USE_PPS_OUTPUT_1
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    SYS_PORT_PPS_OUTPUT_PIN_1:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_PIN_1
+      children:
+      - children:
+        - attributes:
+            id: pairs
+          children:
+          - children:
+            - attributes:
+                description: RPB2G4R
+                key: RPB2
+                value: RPB2G4R
+              type: Pair
+            - attributes:
+                description: RPB3G4R
+                key: RPB3
+                value: RPB3G4R
+              type: Pair
+            - attributes:
+                description: RPB0G2R
+                key: RPB0
+                value: RPB0G2R
+              type: Pair
+            - attributes:
+                description: RPA10G4R
+                key: RPA10
+                value: RPA10G4R
+              type: Pair
+            - attributes:
+                description: RPB1G3R
+                key: RPB1
+                value: RPB1G3R
+              type: Pair
+            - attributes:
+                description: RPB10G4R
+                key: RPB10
+                value: RPB10G4R
+              type: Pair
+            - attributes:
+                description: RPB11G4R
+                key: RPB11
+                value: RPB11G4R
+              type: Pair
+            - attributes:
+                description: RPB12G2R
+                key: RPB12
+                value: RPB12G2R
+              type: Pair
+            - attributes:
+                description: RPA13G4R
+                key: RPA13
+                value: RPA13G4R
+              type: Pair
+            - attributes:
+                description: RPB13G3R
+                key: RPB13
+                value: RPB13G3R
+              type: Pair
+            - attributes:
+                description: RPA14G4R
+                key: RPA14
+                value: RPA14G4R
+              type: Pair
+            - attributes:
+                description: RPB8G2R
+                key: RPB8
+                value: RPB8G2R
+              type: Pair
+            - attributes:
+                description: RPB9G3R
+                key: RPB9
+                value: RPB9G3R
+              type: Pair
+            - attributes:
+                description: RPB6G3R
+                key: RPB6
+                value: RPB6G3R
+              type: Pair
+            - attributes:
+                description: RPB7G4R
+                key: RPB7
+                value: RPB7G4R
+              type: Pair
+            - attributes:
+                description: RPB4G2R
+                key: RPB4
+                value: RPB4G2R
+              type: Pair
+            - attributes:
+                description: RPB5G2R
+                key: RPB5
+                value: RPB5G2R
+              type: Pair
+            - attributes:
+                description: RPA1G4R
+                key: RPA1
+                value: RPA1G4R
+              type: Pair
+            - attributes:
+                description: RPA2G4R
+                key: RPA2
+                value: RPA2G4R
+              type: Pair
+            - attributes:
+                description: RPA0G3R
+                key: RPA0
+                value: RPA0G3R
+              type: Pair
+            - attributes:
+                description: RPA9G4R
+                key: RPA9
+                value: RPA9G4R
+              type: Pair
+            - attributes:
+                description: RPA7G2R
+                key: RPA7
+                value: RPA7G2R
+              type: Pair
+            - attributes:
+                description: RPA8G4R
+                key: RPA8
+                value: RPA8G4R
+              type: Pair
+            - attributes:
+                description: RPA5G4R
+                key: RPA5
+                value: RPA5G4R
+              type: Pair
+            - attributes:
+                description: RPA6G4R
+                key: RPA6
+                value: RPA6G2R
+              type: Pair
+            - attributes:
+                description: RPA3G2R
+                key: RPA3
+                value: RPA3G2R
+              type: Pair
+            - attributes:
+                description: RPA4G3R
+                key: RPA4
+                value: RPA4G3R
+              type: Pair
+            type: Pairs
+          type: KeyValuePairList
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '24'
+          type: User
+        type: Values
+      type: KeyValueSet
+    SYS_PORT_PPS_OUTPUT_FUNCTION_1:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_FUNCTION_1
+      children:
+      - children:
+        - attributes:
+            id: pairs
+          children:
+          - children:
+            - attributes:
+                description: QSPI_SCK (out)
+                key: QSPI_SCK (out)
+                value: '7'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD0 (out)
+                key: SERCOM0_PAD0 (out)
+                value: '3'
+              type: Pair
+            - attributes:
+                description: TC6_WO0 (out)
+                key: TC6_WO0 (out)
+                value: '21'
+              type: Pair
+            - attributes:
+                description: TC1_WO1 (out)
+                key: TC1_WO1 (out)
+                value: '16'
+              type: Pair
+            - attributes:
+                description: TC5_WO1 (out)
+                key: TC5_WO1 (out)
+                value: '20'
+              type: Pair
+            - attributes:
+                description: TC2_WO0 (out)
+                key: TC2_WO0 (out)
+                value: '17'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA0 (in/out)
+                key: QSPI_DATA0 (in/out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD3 (out)
+                key: SERCOM0_PAD3 (out)
+                value: '3'
+              type: Pair
+            - attributes:
+                description: TC3_WO0 (out)
+                key: TC3_WO0 (out)
+                value: '18'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD1 (out)
+                key: SERCOM1_PAD1 (out)
+                value: '2'
+              type: Pair
+            - attributes:
+                description: TC2_WO1 (out)
+                key: TC2_WO1 (out)
+                value: '17'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA3 (in/out)
+                key: QSPI_DATA3 (in/out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: TC5_WO0 (out)
+                key: TC5_WO0 (out)
+                value: '20'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA2 (out)
+                key: QSPI_DATA2 (out)
+                value: '24'
+              type: Pair
+            - attributes:
+                description: TC4_WO1 (out)
+                key: TC4_WO1 (out)
+                value: '19'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD0 (out)
+                key: SERCOM1_PAD0 (out)
+                value: '6'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD1 (out)
+                key: SERCOM0_PAD1 (out)
+                value: '1'
+              type: Pair
+            - attributes:
+                description: TCC1_WO1
+                key: TCC1_WO1
+                value: '11'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA3 (out)
+                key: QSPI_DATA3 (out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: TCC1_WO0
+                key: TCC1_WO0
+                value: '11'
+              type: Pair
+            - attributes:
+                description: QSPI_CS (out)
+                key: QSPI_CS (out)
+                value: '23'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA2 (in/out)
+                key: QSPI_DATA2 (in/out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD3 (out)
+                key: SERCOM1_PAD3 (out)
+                value: '4'
+              type: Pair
+            - attributes:
+                description: TCC1_WO5
+                key: TCC1_WO5
+                value: '12'
+              type: Pair
+            - attributes:
+                description: TCC1_WO4
+                key: TCC1_WO4
+                value: '12'
+              type: Pair
+            - attributes:
+                description: TCC1_WO3
+                key: TCC1_WO3
+                value: '10'
+              type: Pair
+            - attributes:
+                description: TCC1_WO2
+                key: TCC1_WO2
+                value: '10'
+              type: Pair
+            - attributes:
+                description: TCC0_WO4
+                key: TCC0_WO4
+                value: '9'
+              type: Pair
+            - attributes:
+                description: TCC0_WO3
+                key: TCC0_WO3
+                value: '7'
+              type: Pair
+            - attributes:
+                description: TCC0_WO5
+                key: TCC0_WO5
+                value: '9'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA0 (out)
+                key: QSPI_DATA0 (out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: REFO3
+                key: REFO3
+                value: '5'
+              type: Pair
+            - attributes:
+                description: REFO2
+                key: REFO2
+                value: '4'
+              type: Pair
+            - attributes:
+                description: REFO1
+                key: REFO1
+                value: '3'
+              type: Pair
+            - attributes:
+                description: TC0_WO0 (out)
+                key: TC0_WO0 (out)
+                value: '15'
+              type: Pair
+            - attributes:
+                description: TC7_WO1 (out)
+                key: TC7_WO1 (out)
+                value: '22'
+              type: Pair
+            - attributes:
+                description: REFO4
+                key: REFO4
+                value: '6'
+              type: Pair
+            - attributes:
+                description: TCC0_WO0
+                key: TCC0_WO0
+                value: '8'
+              type: Pair
+            - attributes:
+                description: TCC0_WO2
+                key: TCC0_WO2
+                value: '7'
+              type: Pair
+            - attributes:
+                description: TCC0_WO1
+                key: TCC0_WO1
+                value: '8'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD2 (out)
+                key: SERCOM1_PAD2 (out)
+                value: '6'
+              type: Pair
+            - attributes:
+                description: TC7_WO0 (out)
+                key: TC7_WO0 (out)
+                value: '22'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA1 (in/out)
+                key: QSPI_DATA1 (in/out)
+                value: '25'
+              type: Pair
+            - attributes:
+                description: TC6_WO1 (out)
+                key: TC6_WO1 (out)
+                value: '21'
+              type: Pair
+            - attributes:
+                description: TC1_WO0 (out)
+                key: TC1_WO0 (out)
+                value: '16'
+              type: Pair
+            - attributes:
+                description: TC0_WO1 (out)
+                key: TC0_WO1 (out)
+                value: '15'
+              type: Pair
+            - attributes:
+                description: TCC2_WO0
+                key: TCC2_WO0
+                value: '13'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD2 (out)
+                key: SERCOM0_PAD2 (out)
+                value: '3'
+              type: Pair
+            - attributes:
+                description: CCL_OUT0
+                key: CCL_OUT0
+                value: '27'
+              type: Pair
+            - attributes:
+                description: CCL_OUT1
+                key: CCL_OUT1
+                value: '27'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA1 (out)
+                key: QSPI_DATA1 (out)
+                value: '25'
+              type: Pair
+            - attributes:
+                description: TCC2_WO1
+                key: TCC2_WO1
+                value: '13'
+              type: Pair
+            - attributes:
+                description: TC3_WO1 (out)
+                key: TC3_WO1 (out)
+                value: '18'
+              type: Pair
+            - attributes:
+                description: TC4_WO0 (out)
+                key: TC4_WO0 (out)
+                value: '19'
+              type: Pair
+            type: Pairs
+          type: KeyValuePairList
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '47'
+          type: User
+        type: Values
+      type: KeyValueSet
+    BSP_PIN_20_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_20_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: SERCOM0_PAD2 (out)
+          type: User
+        type: Values
+      type: String
+    USE_PPS_OUTPUT_2:
+      attributes:
+        id: USE_PPS_OUTPUT_2
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    SYS_PORT_PPS_OUTPUT_PIN_2:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_PIN_2
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '25'
+          type: User
+        type: Values
+      type: KeyValueSet
+    SYS_PORT_PPS_OUTPUT_FUNCTION_2:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_FUNCTION_2
+      children:
+      - children:
+        - attributes:
+            id: pairs
+          children:
+          - children:
+            - attributes:
+                description: QSPI_SCK (out)
+                key: QSPI_SCK (out)
+                value: '7'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD0 (out)
+                key: SERCOM0_PAD0 (out)
+                value: '1'
+              type: Pair
+            - attributes:
+                description: TC6_WO0 (out)
+                key: TC6_WO0 (out)
+                value: '21'
+              type: Pair
+            - attributes:
+                description: TC1_WO1 (out)
+                key: TC1_WO1 (out)
+                value: '16'
+              type: Pair
+            - attributes:
+                description: TC5_WO1 (out)
+                key: TC5_WO1 (out)
+                value: '20'
+              type: Pair
+            - attributes:
+                description: TC2_WO0 (out)
+                key: TC2_WO0 (out)
+                value: '17'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA0 (in/out)
+                key: QSPI_DATA0 (in/out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD3 (out)
+                key: SERCOM0_PAD3 (out)
+                value: '3'
+              type: Pair
+            - attributes:
+                description: TC3_WO0 (out)
+                key: TC3_WO0 (out)
+                value: '18'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD1 (out)
+                key: SERCOM1_PAD1 (out)
+                value: '2'
+              type: Pair
+            - attributes:
+                description: TC2_WO1 (out)
+                key: TC2_WO1 (out)
+                value: '17'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA3 (in/out)
+                key: QSPI_DATA3 (in/out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: TC5_WO0 (out)
+                key: TC5_WO0 (out)
+                value: '20'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA2 (out)
+                key: QSPI_DATA2 (out)
+                value: '24'
+              type: Pair
+            - attributes:
+                description: TC4_WO1 (out)
+                key: TC4_WO1 (out)
+                value: '19'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD0 (out)
+                key: SERCOM1_PAD0 (out)
+                value: '6'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD1 (out)
+                key: SERCOM0_PAD1 (out)
+                value: '1'
+              type: Pair
+            - attributes:
+                description: TCC1_WO1
+                key: TCC1_WO1
+                value: '11'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA3 (out)
+                key: QSPI_DATA3 (out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: TCC1_WO0
+                key: TCC1_WO0
+                value: '11'
+              type: Pair
+            - attributes:
+                description: QSPI_CS (out)
+                key: QSPI_CS (out)
+                value: '23'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA2 (in/out)
+                key: QSPI_DATA2 (in/out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD3 (out)
+                key: SERCOM1_PAD3 (out)
+                value: '4'
+              type: Pair
+            - attributes:
+                description: TCC1_WO5
+                key: TCC1_WO5
+                value: '12'
+              type: Pair
+            - attributes:
+                description: TCC1_WO4
+                key: TCC1_WO4
+                value: '12'
+              type: Pair
+            - attributes:
+                description: TCC1_WO3
+                key: TCC1_WO3
+                value: '10'
+              type: Pair
+            - attributes:
+                description: TCC1_WO2
+                key: TCC1_WO2
+                value: '10'
+              type: Pair
+            - attributes:
+                description: TCC0_WO4
+                key: TCC0_WO4
+                value: '9'
+              type: Pair
+            - attributes:
+                description: TCC0_WO3
+                key: TCC0_WO3
+                value: '7'
+              type: Pair
+            - attributes:
+                description: TCC0_WO5
+                key: TCC0_WO5
+                value: '9'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA0 (out)
+                key: QSPI_DATA0 (out)
+                value: '26'
+              type: Pair
+            - attributes:
+                description: REFO3
+                key: REFO3
+                value: '5'
+              type: Pair
+            - attributes:
+                description: REFO2
+                key: REFO2
+                value: '4'
+              type: Pair
+            - attributes:
+                description: REFO1
+                key: REFO1
+                value: '3'
+              type: Pair
+            - attributes:
+                description: TC0_WO0 (out)
+                key: TC0_WO0 (out)
+                value: '15'
+              type: Pair
+            - attributes:
+                description: TC7_WO1 (out)
+                key: TC7_WO1 (out)
+                value: '22'
+              type: Pair
+            - attributes:
+                description: REFO4
+                key: REFO4
+                value: '6'
+              type: Pair
+            - attributes:
+                description: TCC0_WO0
+                key: TCC0_WO0
+                value: '8'
+              type: Pair
+            - attributes:
+                description: TCC0_WO2
+                key: TCC0_WO2
+                value: '7'
+              type: Pair
+            - attributes:
+                description: TCC0_WO1
+                key: TCC0_WO1
+                value: '8'
+              type: Pair
+            - attributes:
+                description: SERCOM1_PAD2 (out)
+                key: SERCOM1_PAD2 (out)
+                value: '4'
+              type: Pair
+            - attributes:
+                description: TC7_WO0 (out)
+                key: TC7_WO0 (out)
+                value: '22'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA1 (in/out)
+                key: QSPI_DATA1 (in/out)
+                value: '25'
+              type: Pair
+            - attributes:
+                description: TC6_WO1 (out)
+                key: TC6_WO1 (out)
+                value: '21'
+              type: Pair
+            - attributes:
+                description: TC1_WO0 (out)
+                key: TC1_WO0 (out)
+                value: '16'
+              type: Pair
+            - attributes:
+                description: TC0_WO1 (out)
+                key: TC0_WO1 (out)
+                value: '15'
+              type: Pair
+            - attributes:
+                description: TCC2_WO0
+                key: TCC2_WO0
+                value: '13'
+              type: Pair
+            - attributes:
+                description: SERCOM0_PAD2 (out)
+                key: SERCOM0_PAD2 (out)
+                value: '1'
+              type: Pair
+            - attributes:
+                description: CCL_OUT0
+                key: CCL_OUT0
+                value: '27'
+              type: Pair
+            - attributes:
+                description: CCL_OUT1
+                key: CCL_OUT1
+                value: '27'
+              type: Pair
+            - attributes:
+                description: QSPI_DATA1 (out)
+                key: QSPI_DATA1 (out)
+                value: '25'
+              type: Pair
+            - attributes:
+                description: TCC2_WO1
+                key: TCC2_WO1
+                value: '13'
+              type: Pair
+            - attributes:
+                description: TC3_WO1 (out)
+                key: TC3_WO1 (out)
+                value: '18'
+              type: Pair
+            - attributes:
+                description: TC4_WO0 (out)
+                key: TC4_WO0 (out)
+                value: '19'
+              type: Pair
+            type: Pairs
+          type: KeyValuePairList
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: KeyValueSet
+    SYS_PORT_A_ANSEL:
+      attributes:
+        id: SYS_PORT_A_ANSEL
+      children:
+      - children:
+        - attributes:
+            id: core
+            value: '8'
+          type: Dynamic
+        type: Values
+      type: Hex
+    BSP_PIN_10_MODE:
+      attributes:
+        id: BSP_PIN_10_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_10_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_10_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: SERCOM0_PAD0 (out)
+          type: User
+        type: Values
+      type: String
+    USE_PPS_INPUT_0:
+      attributes:
+        id: USE_PPS_INPUT_0
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    SYS_PORT_PPS_INPUT_PIN_0:
+      attributes:
+        id: SYS_PORT_PPS_INPUT_PIN_0
+      children:
+      - children:
+        - attributes:
+            id: pairs
+          children:
+          - children:
+            - attributes:
+                description: RPB2
+                key: RPB2
+                value: '11'
+              type: Pair
+            - attributes:
+                description: RPB3
+                key: RPB3
+                value: '4'
+              type: Pair
+            - attributes:
+                description: RPB0
+                key: RPB0
+                value: '11'
+              type: Pair
+            - attributes:
+                description: RPA10
+                key: RPA10
+                value: '2'
+              type: Pair
+            - attributes:
+                description: RPB1
+                key: RPB1
+                value: '11'
+              type: Pair
+            - attributes:
+                description: RPA11
+                key: RPA11
+                value: '10'
+              type: Pair
+            - attributes:
+                description: RPB10
+                key: RPB10
+                value: '13'
+              type: Pair
+            - attributes:
+                description: RPB11
+                key: RPB11
+                value: '6'
+              type: Pair
+            - attributes:
+                description: RPA12
+                key: RPA12
+                value: '10'
+              type: Pair
+            - attributes:
+                description: RPB12
+                key: RPB12
+                value: '14'
+              type: Pair
+            - attributes:
+                description: RPA13
+                key: RPA13
+                value: '10'
+              type: Pair
+            - attributes:
+                description: RPA14
+                key: RPA14
+                value: '3'
+              type: Pair
+            - attributes:
+                description: RPB13
+                key: RPB13
+                value: '14'
+              type: Pair
+            - attributes:
+                description: RPB8
+                key: RPB8
+                value: '13'
+              type: Pair
+            - attributes:
+                description: RPB9
+                key: RPB9
+                value: '13'
+              type: Pair
+            - attributes:
+                description: RPB6
+                key: RPB6
+                value: '12'
+              type: Pair
+            - attributes:
+                description: RPB7
+                key: RPB7
+                value: '5'
+              type: Pair
+            - attributes:
+                description: RPB4
+                key: RPB4
+                value: '12'
+              type: Pair
+            - attributes:
+                description: RPB5
+                key: RPB5
+                value: '12'
+              type: Pair
+            - attributes:
+                description: RPA1
+                key: RPA1
+                value: '7'
+              type: Pair
+            - attributes:
+                description: RPA2
+                key: RPA2
+                value: '15'
+              type: Pair
+            - attributes:
+                description: RPA0
+                key: RPA0
+                value: '7'
+              type: Pair
+            - attributes:
+                description: RPA9
+                key: RPA9
+                value: '9'
+              type: Pair
+            - attributes:
+                description: RPA7
+                key: RPA7
+                value: '4'
+              type: Pair
+            - attributes:
+                description: RPA8
+                key: RPA8
+                value: '9'
+              type: Pair
+            - attributes:
+                description: RPA5
+                key: RPA5
+                value: '8'
+              type: Pair
+            - attributes:
+                description: RPA6
+                key: RPA6
+                value: '1'
+              type: Pair
+            - attributes:
+                description: RPA3
+                key: RPA3
+                value: '8'
+              type: Pair
+            - attributes:
+                description: RPA4
+                key: RPA4
+                value: '8'
+              type: Pair
+            type: Pairs
+          type: KeyValuePairList
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '23'
+          type: User
+        type: Values
+      type: KeyValueSet
+    SYS_PORT_PPS_INPUT_FUNCTION_0:
+      attributes:
+        id: SYS_PORT_PPS_INPUT_FUNCTION_0
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '25'
+          type: User
+        type: Values
+      type: KeyValueSet
+    BSP_PIN_3_MODE:
+      attributes:
+        id: BSP_PIN_3_MODE
+      children:
+      - children:
+        - attributes:
+            value: DIGITAL
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_3_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_3_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_24_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_24_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: SERCOM1_PAD0 (out)
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_25_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_25_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: SERCOM1_PAD1 (in)
+          type: User
+        type: Values
+      type: String
+    USE_PPS_OUTPUT_3:
+      attributes:
+        id: USE_PPS_OUTPUT_3
+      children:
+      - children:
+        - attributes:
+            value: 'false'
+          type: User
+        type: Values
+      type: Boolean
+    SYS_PORT_PPS_OUTPUT_PIN_3:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_PIN_3
+      children:
+      - children:
+        - attributes:
+            id: pairs
+          children:
+          - children:
+            - attributes:
+                description: RPB2G4R
+                key: RPB2
+                value: RPB2G4R
+              type: Pair
+            - attributes:
+                description: RPB3G4R
+                key: RPB3
+                value: RPB3G4R
+              type: Pair
+            - attributes:
+                description: RPB0G2R
+                key: RPB0
+                value: RPB0G2R
+              type: Pair
+            - attributes:
+                description: RPA10G4R
+                key: RPA10
+                value: RPA10G4R
+              type: Pair
+            - attributes:
+                description: RPB1G3R
+                key: RPB1
+                value: RPB1G3R
+              type: Pair
+            - attributes:
+                description: RPB10G4R
+                key: RPB10
+                value: RPB10G4R
+              type: Pair
+            - attributes:
+                description: RPB11G4R
+                key: RPB11
+                value: RPB11G4R
+              type: Pair
+            - attributes:
+                description: RPB12G2R
+                key: RPB12
+                value: RPB12G2R
+              type: Pair
+            - attributes:
+                description: RPA13G4R
+                key: RPA13
+                value: RPA13G4R
+              type: Pair
+            - attributes:
+                description: RPB13G3R
+                key: RPB13
+                value: RPB13G3R
+              type: Pair
+            - attributes:
+                description: RPA14G4R
+                key: RPA14
+                value: RPA14G4R
+              type: Pair
+            - attributes:
+                description: RPB8G2R
+                key: RPB8
+                value: RPB8G2R
+              type: Pair
+            - attributes:
+                description: RPB9G3R
+                key: RPB9
+                value: RPB9G3R
+              type: Pair
+            - attributes:
+                description: RPB6G3R
+                key: RPB6
+                value: RPB6G3R
+              type: Pair
+            - attributes:
+                description: RPB7G4R
+                key: RPB7
+                value: RPB7G4R
+              type: Pair
+            - attributes:
+                description: RPB4G2R
+                key: RPB4
+                value: RPB4G2R
+              type: Pair
+            - attributes:
+                description: RPB5G2R
+                key: RPB5
+                value: RPB5G2R
+              type: Pair
+            - attributes:
+                description: RPA1G4R
+                key: RPA1
+                value: RPA1G4R
+              type: Pair
+            - attributes:
+                description: RPA2G4R
+                key: RPA2
+                value: RPA2G4R
+              type: Pair
+            - attributes:
+                description: RPA0G3R
+                key: RPA0
+                value: RPA0G3R
+              type: Pair
+            - attributes:
+                description: RPA9G4R
+                key: RPA9
+                value: RPA9G4R
+              type: Pair
+            - attributes:
+                description: RPA7G2R
+                key: RPA7
+                value: RPA7G1R
+              type: Pair
+            - attributes:
+                description: RPA8G4R
+                key: RPA8
+                value: RPA8G4R
+              type: Pair
+            - attributes:
+                description: RPA5G4R
+                key: RPA5
+                value: RPA5G4R
+              type: Pair
+            - attributes:
+                description: RPA6G4R
+                key: RPA6
+                value: RPA6G4R
+              type: Pair
+            - attributes:
+                description: RPA3G2R
+                key: RPA3
+                value: RPA3G2R
+              type: Pair
+            - attributes:
+                description: RPA4G3R
+                key: RPA4
+                value: RPA4G3R
+              type: Pair
+            type: Pairs
+          type: KeyValuePairList
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '21'
+          type: User
+        type: Values
+      type: KeyValueSet
+    SYS_PORT_PPS_OUTPUT_FUNCTION_3:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_FUNCTION_3
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '9'
+          type: User
+        type: Values
+      type: KeyValueSet
+    USE_PPS_OUTPUT_4:
+      attributes:
+        id: USE_PPS_OUTPUT_4
+      children:
+      - children:
+        - attributes:
+            value: 'true'
+          type: User
+        type: Values
+      type: Boolean
+    SYS_PORT_PPS_OUTPUT_PIN_4:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_PIN_4
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '22'
+          type: User
+        type: Values
+      type: KeyValueSet
+    SYS_PORT_PPS_OUTPUT_FUNCTION_4:
+      attributes:
+        id: SYS_PORT_PPS_OUTPUT_FUNCTION_4
+      children:
+      - children:
+        - attributes:
+            id: visible
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      - children:
+        - attributes:
+            value: '15'
+          type: User
+        type: Values
+      type: KeyValueSet
+    BSP_PIN_24_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_24_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: TXD
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_25_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_25_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: RXD
+          type: User
+        type: Values
+      type: String
+    SERCOM0_CORE_CLOCK_ENABLE:
+      attributes:
+        id: SERCOM0_CORE_CLOCK_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: sercom0
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SERCOM0_INTERRUPT_ENABLE:
+      attributes:
+        id: SERCOM0_INTERRUPT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: sercom0
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SERCOM0_INTERRUPT_HANDLER_LOCK:
+      attributes:
+        id: SERCOM0_INTERRUPT_HANDLER_LOCK
+      children:
+      - children:
+        - attributes:
+            id: sercom0
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SERCOM0_INTERRUPT_HANDLER:
+      attributes:
+        id: SERCOM0_INTERRUPT_HANDLER
+      children:
+      - children:
+        - attributes:
+            id: sercom0
+            value: SERCOM0_Handler
+          type: Dynamic
+        type: Values
+      type: String
+    BSP_PIN_6_FUNCTION_TYPE:
+      attributes:
+        id: BSP_PIN_6_FUNCTION_TYPE
+      children:
+      - children:
+        - attributes:
+            value: GPIO
+          type: User
+        type: Values
+      type: String
+    BSP_PIN_6_FUNCTION_NAME:
+      attributes:
+        id: BSP_PIN_6_FUNCTION_NAME
+      children:
+      - children:
+        - attributes:
+            value: EPD_BUSY
+          type: User
+        type: Values
+      type: String
+  userData:
+    children:
+    - attributes:
+        canvasHeight: '133'
+        canvasWidth: '706'
+      type: GraphSettings
+    - children:
+      - attributes:
+          id: profile0
+          name: Main
+        type: Profile
+      type: PowerProfiles
+    type: UserData
