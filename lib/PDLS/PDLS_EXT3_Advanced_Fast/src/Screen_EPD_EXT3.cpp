@@ -445,15 +445,14 @@ void Screen_EPD_EXT3_Fast::begin(eScreen_EPD_EXT3_t eScreen_EPD_EXT3)
     hV_HAL_log(LEVEL_DEBUG, "Here 1");
     if (_newImage == 0)
     {
-        hV_HAL_log(LEVEL_DEBUG, "Here 2");
+//        hV_HAL_log(LEVEL_DEBUG, "Here 2");
         static uint8_t * _newFrameBuffer;
-        hV_HAL_log(LEVEL_DEBUG, "Here 3");
+//        hV_HAL_log(LEVEL_DEBUG, "Here 3");
         _newFrameBuffer = new uint8_t[_pageColourSize * _bufferDepth];
         
-        hV_HAL_log(LEVEL_DEBUG, "Here 4");
+//        hV_HAL_log(LEVEL_DEBUG, "Here 4");
         _newImage = (uint8_t *) _newFrameBuffer;
-        
-        hV_HAL_log(LEVEL_DEBUG, "Here 5");
+       
     }
 
 #endif // SRAM_MODE

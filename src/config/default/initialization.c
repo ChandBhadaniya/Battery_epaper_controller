@@ -47,7 +47,6 @@
 #include "definitions.h"
 #include "device.h"
 #include "common_def.h"
-//#include "pin_manager.h"
 
 
 // ****************************************************************************
@@ -173,6 +172,61 @@ SYSTEM_OBJECTS sysObj;
 // Section: Library/Stack Initialization Data
 // *****************************************************************************
 // *****************************************************************************
+/*******************************************************************************
+* Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries.
+*
+* Subject to your compliance with these terms, you may use Microchip software
+* and any derivatives exclusively with Microchip products. It is your
+* responsibility to comply with third party license terms applicable to your
+* use of third party software (including open source software) that may
+* accompany Microchip software.
+*
+* THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES, WHETHER
+* EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY IMPLIED
+* WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A
+* PARTICULAR PURPOSE.
+*
+* IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE,
+* INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND
+* WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP HAS
+* BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO THE
+* FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN
+* ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
+* THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
+*******************************************************************************/
+
+OSAL_API_LIST_TYPE     osalAPIList;
+
+
+/*******************************************************************************
+* Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries.
+*
+* Subject to your compliance with these terms, you may use Microchip software
+* and any derivatives exclusively with Microchip products. It is your
+* responsibility to comply with third party license terms applicable to your
+* use of third party software (including open source software) that may
+* accompany Microchip software.
+*
+* THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES, WHETHER
+* EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY IMPLIED
+* WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A
+* PARTICULAR PURPOSE.
+*
+* IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE,
+* INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND
+* WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP HAS
+* BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO THE
+* FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN
+* ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
+* THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
+*******************************************************************************/
+
+#define QUEUE_LENGTH_ZIGBEE (16)
+
+#define QUEUE_ITEM_SIZE_ZIGBEE (sizeof(void *))
+
+OSAL_QUEUE_HANDLE_TYPE zigbeeRequestQueueHandle;
+
 
 
 // *****************************************************************************
@@ -180,6 +234,32 @@ SYSTEM_OBJECTS sysObj;
 // Section: System Initialization
 // *****************************************************************************
 // *****************************************************************************
+/*******************************************************************************
+* Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries.
+*
+* Subject to your compliance with these terms, you may use Microchip software
+* and any derivatives exclusively with Microchip products. It is your
+* responsibility to comply with third party license terms applicable to your
+* use of third party software (including open source software) that may
+* accompany Microchip software.
+*
+* THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES, WHETHER
+* EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY IMPLIED
+* WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A
+* PARTICULAR PURPOSE.
+*
+* IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE,
+* INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND
+* WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP HAS
+* BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO THE
+* FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN
+* ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
+* THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
+*******************************************************************************/
+
+
+
+
 
 
 
@@ -207,6 +287,32 @@ void SYS_Initialize ( void* data )
     /* MISRAC 2012 deviation block start */
     /* MISRA C-2012 Rule 2.2 deviated in this file.  Deviation record ID -  H3_MISRAC_2012_R_2_2_DR_1 */
 
+/*******************************************************************************
+* Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries.
+*
+* Subject to your compliance with these terms, you may use Microchip software
+* and any derivatives exclusively with Microchip products. It is your
+* responsibility to comply with third party license terms applicable to your
+* use of third party software (including open source software) that may
+* accompany Microchip software.
+*
+* THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES, WHETHER
+* EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY IMPLIED
+* WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A
+* PARTICULAR PURPOSE.
+*
+* IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE,
+* INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND
+* WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP HAS
+* BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO THE
+* FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN
+* ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
+* THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
+*******************************************************************************/
+
+    // Initialize the RF Clock Generator
+    SYS_ClkGen_Config();
+
   
     CLOCK_Initialize();
     /* MISRAC 2012 deviation block start */
@@ -220,50 +326,129 @@ void SYS_Initialize ( void* data )
     /* MISRAC 2012 deviation block end */
 
 
-    LED_Set();
+
+
 	GPIO_Initialize();
 
-    LED_Clear();
     SERCOM1_USART_Initialize();
-    
+
     SERCOM0_SPI_Initialize();
 
     EVSYS_Initialize();
     if (SERCOM0_SPI_IsTransmitterBusy())
         ESP_LOGI("SPI", "Still Busy after init\r\n");
-    
+
     SERCOM0_SPI_Write((void*)"Hello SPI\r\n", 11);
+    
+    void *p = pvPortMalloc(1);   // forces prvHeapInit()
+    if (p != NULL)
+        vPortFree(p);
+    
     ESP_LOGI("SPI", "SPI write done!\r\n");
+//    EVSYS_Initialize();
+    ESP_LOGI("HEAP", "FreeRTOS free heap before TC0 init: %u bytes\r\n",
+           (unsigned)xPortGetFreeHeapSize());
+    ESP_LOGI("HEAP", "FreeRTOS minimum ever free heap: %u bytes\r\n",
+           (unsigned)xPortGetMinimumEverFreeHeapSize());
 
+    TC0_TimerInitialize();
+
+    ESP_LOGI("HEAP", "FreeRTOS free heap After TC0 init: %u bytes\r\n",
+           (unsigned)xPortGetFreeHeapSize());
+    ESP_LOGI("HEAP", "FreeRTOS minimum ever free heap: %u bytes\r\n",
+           (unsigned)xPortGetMinimumEverFreeHeapSize());
     
-    if (SERCOM0_SPI_IsTransmitterBusy())
-        ESP_LOGI("SPI", "Still Busy after init\r\n");
-    
-    LED_Set();
-    EVSYS_Initialize();
+    ESP_LOGI("SPI", "TC0_TimerInitialize!\r\n");
+    NVM_Initialize();
 
-//    ESP_LOGI("DEBUG", "1");
+    ESP_LOGI("SPI", "NVM_Initialize!\r\n");
 
-    LED_Clear();
+
     /* MISRAC 2012 deviation block start */
     /* Following MISRA-C rules deviated in this block  */
     /* MISRA C-2012 Rule 11.3 - Deviation record ID - H3_MISRAC_2012_R_11_3_DR_1 */
     /* MISRA C-2012 Rule 11.8 - Deviation record ID - H3_MISRAC_2012_R_11_8_DR_1 */
 
+    // Initialize RF System
+    SYS_Load_Cal(WSS_ENABLE_ZB);
+ 
+    ESP_LOGI("SPI", "SYS_Load_Cal!\r\n");
+    // Set up OSAL for RF Stack Library usage
+    osalAPIList.OSAL_CRIT_Enter      = OSAL_CRIT_Enter;
+    osalAPIList.OSAL_CRIT_Leave      = OSAL_CRIT_Leave;
+
+    osalAPIList.OSAL_SEM_Create      = OSAL_SEM_Create;
+    osalAPIList.OSAL_SEM_Pend        = OSAL_SEM_Pend;
+    osalAPIList.OSAL_SEM_Post        = OSAL_SEM_Post;
+    osalAPIList.OSAL_SEM_PostISR     = OSAL_SEM_PostISR;
+    osalAPIList.OSAL_SEM_GetCount    = OSAL_SEM_GetCount;
+
+    osalAPIList.OSAL_QUEUE_Create    = OSAL_QUEUE_Create;
+    osalAPIList.OSAL_QUEUE_Send      = OSAL_QUEUE_Send;
+    osalAPIList.OSAL_QUEUE_SendISR   = OSAL_QUEUE_SendISR;
+    osalAPIList.OSAL_QUEUE_Receive   = OSAL_QUEUE_Receive;
+    osalAPIList.OSAL_QUEUE_IsFullISR = OSAL_QUEUE_IsFullISR;
+    osalAPIList.OSAL_QUEUE_CreateSet = OSAL_QUEUE_CreateSet;
+    osalAPIList.OSAL_QUEUE_AddToSet  = OSAL_QUEUE_AddToSet;
+    osalAPIList.OSAL_QUEUE_SelectFromSet = OSAL_QUEUE_SelectFromSet;
+
+    osalAPIList.OSAL_MemAlloc = OSAL_Malloc;
+    osalAPIList.OSAL_MemFree = OSAL_Free;
 
 
-//    SERCOM1_USART_Write("Hey Chand ||", sizeof("Hey Chand ||"));
+/*******************************************************************************
+* Copyright (C) 2022 Microchip Technology Inc. and its subsidiaries.
+*
+* Subject to your compliance with these terms, you may use Microchip software
+* and any derivatives exclusively with Microchip products. It is your
+* responsibility to comply with third party license terms applicable to your
+* use of third party software (including open source software) that may
+* accompany Microchip software.
+*
+* THIS SOFTWARE IS SUPPLIED BY MICROCHIP "AS IS". NO WARRANTIES, WHETHER
+* EXPRESS, IMPLIED OR STATUTORY, APPLY TO THIS SOFTWARE, INCLUDING ANY IMPLIED
+* WARRANTIES OF NON-INFRINGEMENT, MERCHANTABILITY, AND FITNESS FOR A
+* PARTICULAR PURPOSE.
+*
+* IN NO EVENT WILL MICROCHIP BE LIABLE FOR ANY INDIRECT, SPECIAL, PUNITIVE,
+* INCIDENTAL OR CONSEQUENTIAL LOSS, DAMAGE, COST OR EXPENSE OF ANY KIND
+* WHATSOEVER RELATED TO THE SOFTWARE, HOWEVER CAUSED, EVEN IF MICROCHIP HAS
+* BEEN ADVISED OF THE POSSIBILITY OR THE DAMAGES ARE FORESEEABLE. TO THE
+* FULLEST EXTENT ALLOWED BY LAW, MICROCHIP'S TOTAL LIABILITY ON ALL CLAIMS IN
+* ANY WAY RELATED TO THIS SOFTWARE WILL NOT EXCEED THE AMOUNT OF FEES, IF ANY,
+* THAT YOU HAVE PAID DIRECTLY TO MICROCHIP FOR THIS SOFTWARE.
+*******************************************************************************/
+    // Initialize PDS- Persistent Data Server
+    PDS_Init(MAX_PDS_ITEMS_COUNT, MAX_PDS_DIRECTORIES_COUNT);
+
+
+
+
+	// Create ZIGBEE Stack Message QUEUE
+    (void)OSAL_QUEUE_Create(&zigbeeRequestQueueHandle, QUEUE_LENGTH_ZIGBEE, QUEUE_ITEM_SIZE_ZIGBEE);
+
+    // Retrieve Zigbee's data from Information Base
+    ZB_CS_SYS_IBData_t zgbIBdata = {0};
+
+    zgbIBdata.validityCheck.extMacDevAddrValid = IB_GetMACAddr(&zgbIBdata.extMacDevAddr[0]);
+    zgbIBdata.validityCheck.antennaGainValid = IB_GetAntennaGain((uint8_t *)&zgbIBdata.antGain); // should be changed to 8bit
+
+    // Initialize ZIGBEE Stack
+    Zigbee_Init(&osalAPIList, &zigbeeRequestQueueHandle, NULL, &zgbIBdata);
+
+    //uint8_t value = PMU_Set_Mode(PMU_MODE_BUCK_PWM); //Set PMU as PWM mode
+    //PMU_Set_Mode(PMU_MODE_BUCK_PWM); //Set PMU as PWM mode // For Buck Mode : PMU_MODE_MLDO
+
+
     /* MISRAC 2012 deviation block end */
-//    APP_Initialize();
-//    ESP_LOGI("DEBUG", "2");
+    APP_Initialize();
     APP1_Initialize();
-//    ESP_LOGI("DEBUG", "3");
 
+    ESP_LOGI("SPI", "APP1_Initialize!\r\n");
 
     NVIC_Initialize();
-    
-    ESP_LOGI("DEBUG", "4");
 
+    ESP_LOGI("SPI", "NVIC_Initialize!\r\n");
 
     /* MISRAC 2012 deviation block end */
 }

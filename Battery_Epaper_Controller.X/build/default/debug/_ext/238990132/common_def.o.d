@@ -101,8 +101,7 @@ build/default/debug/_ext/238990132/common_def.o: \
  ../src/config/default/device_cache.h ../src/config/default/device.h \
  ../src/config/default/toolchain_specifics.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
- ../src/config/default/definitions.h \
- ../src/config/default/peripheral/sercom/usart/plib_sercom1_usart.h \
+ ../lib/PDLS/definations_cpp.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom0_spi_master.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom_spi_master_common.h \
  ../src/config/default/peripheral/evsys/plib_evsys.h \
@@ -122,7 +121,8 @@ build/default/debug/_ext/238990132/common_def.o: \
  ../src/config/default/system/int/sys_int.h \
  ../src/config/default/system/int/sys_int_mapping.h \
  ../src/config/default/system/cache/sys_cache.h \
- ../src/config/default/osal/osal.h \
+ ../src/config/default/osal/osal.h ../src/config/default/configuration.h \
+ ../src/config/default/user.h \
  ../src/config/default/osal/osal_definitions.h \
  ../src/config/default/osal/osal_freertos.h \
  ../src/third_party/rtos/FreeRTOS/Source/include/queue.h \
@@ -133,12 +133,11 @@ build/default/debug/_ext/238990132/common_def.o: \
  ../src/config/default/system/system.h \
  ../src/config/default/system/system_common.h \
  ../src/config/default/system/system_module.h \
- ../src/config/default/system/system_common.h \
- ../src/config/default/configuration.h ../src/config/default/user.h \
- ../src/app.h \
+ ../src/config/default/system/system_common.h ../src/app.h \
  /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/stdlib.h \
  /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cstdlib \
- ../src/app1.h
+ ../src/config/default/osal/osal_freertos_extend.h \
+ ../src/config/default/osal/osal_freertos.h ../src/app1.h
 
 ../lib/PDLS/common_def.h:
 
@@ -348,9 +347,7 @@ build/default/debug/_ext/238990132/common_def.o: \
 
 ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h:
 
-../src/config/default/definitions.h:
-
-../src/config/default/peripheral/sercom/usart/plib_sercom1_usart.h:
+../lib/PDLS/definations_cpp.h:
 
 ../src/config/default/peripheral/sercom/spi_master/plib_sercom0_spi_master.h:
 
@@ -392,6 +389,10 @@ build/default/debug/_ext/238990132/common_def.o: \
 
 ../src/config/default/osal/osal.h:
 
+../src/config/default/configuration.h:
+
+../src/config/default/user.h:
+
 ../src/config/default/osal/osal_definitions.h:
 
 ../src/config/default/osal/osal_freertos.h:
@@ -414,14 +415,14 @@ build/default/debug/_ext/238990132/common_def.o: \
 
 ../src/config/default/system/system_common.h:
 
-../src/config/default/configuration.h:
-
-../src/config/default/user.h:
-
 ../src/app.h:
 
 /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/stdlib.h:
 
 /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cstdlib:
+
+../src/config/default/osal/osal_freertos_extend.h:
+
+../src/config/default/osal/osal_freertos.h:
 
 ../src/app1.h:

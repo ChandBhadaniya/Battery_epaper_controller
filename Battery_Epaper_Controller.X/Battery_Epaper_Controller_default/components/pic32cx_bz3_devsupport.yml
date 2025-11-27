@@ -1,0 +1,147 @@
+configVersion: 1.0.0
+componentName: pic32cx_bz3_devsupport
+coreVersion: 5.8.2
+device: WBZ350
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: pic32cx_bz3_devsupport
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: wireless_pic32cxbz_wbz
+  type: package
+  version: v1.6.0
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments: {}
+  elementPosition:
+    attributes:
+      id: __ROOTVIEW
+    children:
+    - children:
+      - attributes:
+          id: pic32cx_bz3_devsupport
+          x: '64'
+          y: '243'
+        type: ElementPosition
+      type: ElementPositions
+    type: ComponentGraph
+  symbols:
+    APP_IDLE_TASK_C:
+      attributes:
+        id: APP_IDLE_TASK_C
+      children:
+      - children:
+        - attributes:
+            id: enabled
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      type: File
+    APP_IDLE_TASK_H:
+      attributes:
+        id: APP_IDLE_TASK_H
+      children:
+      - children:
+        - attributes:
+            id: enabled
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      type: File
+    APP_USER_EDITS_C:
+      attributes:
+        id: APP_USER_EDITS_C
+      children:
+      - children:
+        - attributes:
+            id: enabled
+          children:
+          - type: Value
+            value: 'true'
+          type: Boolean
+        type: Attributes
+      type: File
+    AUTO_LOAD_PDS:
+      attributes:
+        id: AUTO_LOAD_PDS
+      children:
+      - children:
+        - attributes:
+            id: pic32cx_bz3_devsupport
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    CUSTOM_ANT_ENABLE:
+      attributes:
+        id: CUSTOM_ANT_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: pic32cx_bz3_devsupport
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    ENABLE_CONSOLE:
+      attributes:
+        id: ENABLE_CONSOLE
+      children:
+      - children:
+        - attributes:
+            id: pic32cx_bz3_devsupport
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    FREERTOS_CONFIG_PATH:
+      attributes:
+        id: FREERTOS_CONFIG_PATH
+      children:
+      - children:
+        - attributes:
+            id: pic32cx_bz3_devsupport
+            value: config/default/FreeRTOSConfig.h/
+          type: Dynamic
+        type: Values
+      type: String
+    PDS_LOADED:
+      attributes:
+        id: PDS_LOADED
+      children:
+      - children:
+        - attributes:
+            id: pic32cx_bz3_devsupport
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    WSS_ENABLE_MODE:
+      attributes:
+        id: WSS_ENABLE_MODE
+      children:
+      - children:
+        - attributes:
+            id: pic32cx_bz3_devsupport
+            value: WSS_ENABLE_ZB
+          type: Dynamic
+        type: Values
+      type: String
+    ZIGBEESTACK_LOADED:
+      attributes:
+        id: ZIGBEESTACK_LOADED
+      children:
+      - children:
+        - attributes:
+            id: pic32cx_bz3_devsupport
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+  userData: {}

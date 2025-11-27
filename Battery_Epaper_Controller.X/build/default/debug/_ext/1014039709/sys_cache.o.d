@@ -1,5 +1,9 @@
 build/default/debug/_ext/1014039709/sys_cache.o: \
  ../src/config/default/system/cache/sys_cache.c \
+ ../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h \
+ ../src/config/default/zigbee/z3device_configs/stackConfig.h \
  ../src/config/default/device.h ../src/packs/WBZ350_DFP/wbz350.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/core_cm4.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_version.h \
@@ -101,6 +105,14 @@ build/default/debug/_ext/1014039709/sys_cache.o: \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
  ../src/config/default/device_cache.h \
  ../src/config/default/system/cache/sys_cache.h
+
+../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h:
+
+../src/config/default/zigbee/z3device_configs/stackConfig.h:
 
 ../src/config/default/device.h:
 

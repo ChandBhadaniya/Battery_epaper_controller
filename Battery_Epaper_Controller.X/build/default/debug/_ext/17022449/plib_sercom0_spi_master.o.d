@@ -1,5 +1,9 @@
 build/default/debug/_ext/17022449/plib_sercom0_spi_master.o: \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom0_spi_master.c \
+ ../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h \
+ ../src/config/default/zigbee/z3device_configs/stackConfig.h \
  ../src/config/default/interrupts.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom0_spi_master.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom_spi_master_common.h \
@@ -102,6 +106,14 @@ build/default/debug/_ext/17022449/plib_sercom0_spi_master.o: \
  ../src/config/default/device_cache.h ../src/config/default/device.h \
  ../src/config/default/toolchain_specifics.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h
+
+../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h:
+
+../src/config/default/zigbee/z3device_configs/stackConfig.h:
 
 ../src/config/default/interrupts.h:
 

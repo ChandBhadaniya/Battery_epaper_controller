@@ -1,6 +1,6 @@
 
 #include "common_def.h"
-#include "definitions.h"                // SYS function prototypes
+#include "definations_cpp.h"                // SYS function prototypes
 
 const uint8_t myOrientation = 4; // ORIENTATION_VERTICAL
 

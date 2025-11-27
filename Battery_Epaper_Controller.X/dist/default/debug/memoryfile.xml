@@ -3,15 +3,15 @@
   <executable name="dist/default/debug/Battery_Epaper_Controller.X.debug.elf">
     <memory name="program">
       <units>bytes</units>
-      <length>523776</length>
-      <used>417177</used>
-      <free>106599</free>
+      <length>507392</length>
+      <used>491036</used>
+      <free>16356</free>
     </memory>
     <memory name="data">
       <units>bytes</units>
       <length>98304</length>
-      <used>53448</used>
-      <free>44856</free>
+      <used>80200</used>
+      <free>18104</free>
     </memory>
   </executable>
 </project>

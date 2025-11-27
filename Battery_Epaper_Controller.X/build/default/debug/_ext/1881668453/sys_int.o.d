@@ -1,5 +1,9 @@
 build/default/debug/_ext/1881668453/sys_int.o: \
  ../src/config/default/system/int/src/sys_int.c \
+ ../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h \
+ ../src/config/default/zigbee/z3device_configs/stackConfig.h \
  ../src/config/default/system/int/sys_int.h \
  ../src/config/default/device.h ../src/packs/WBZ350_DFP/wbz350.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/core_cm4.h \
@@ -102,6 +106,14 @@ build/default/debug/_ext/1881668453/sys_int.o: \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
  ../src/config/default/system/int/sys_int_mapping.h \
  ../src/config/default/peripheral/nvic/plib_nvic.h
+
+../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h:
+
+../src/config/default/zigbee/z3device_configs/stackConfig.h:
 
 ../src/config/default/system/int/sys_int.h:
 

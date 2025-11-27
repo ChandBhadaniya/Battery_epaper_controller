@@ -2,7 +2,7 @@
 
 manifest_file_version: 1.0.0
 project: Battery_Epaper_Controller
-creation_date: 2025-11-18T17:47:15.884+05:30[Asia/Kolkata]
+creation_date: 2025-11-27T18:56:59.137+05:30[Asia/Kolkata]
 operating_system: Linux
 mcc_mode: IDE
 mcc_mode_version: v6.25
@@ -18,7 +18,9 @@ device_library: {library_class: com.microchip.mcc.harmony.Harmony3Library, name:
   version: Bundled}
 packs: {name: PIC32CX-BZ3_DFP, version: 1.1.171}
 modules:
+- {name: wireless_pic32cxbz_wbz, type: HARMONY, version: v1.6.0}
 - {name: csp, type: HARMONY, version: v3.19.1}
 - {name: core, type: HARMONY, version: v3.15.2}
 - {name: CMSIS_5, type: HARMONY, version: 5.9.1-dev}
 - {name: FreeRTOS-Kernel, type: HARMONY, version: V11.2.0}
+- {name: wireless_zigbee, type: HARMONY, version: v6.2.0}

@@ -38,7 +38,7 @@
 
 // Library header
 #include "hV_HAL_Peripherals.h"
-#include "definitions.h"                // SYS function prototypes
+#include "definations_cpp.h"                // SYS function prototypes
 #include <stdint.h>
 #include <stdio.h>
 #include <string.h>

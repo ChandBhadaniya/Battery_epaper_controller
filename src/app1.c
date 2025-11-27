@@ -145,7 +145,7 @@ void APP1_Tasks ( void )
             LED_Toggle();
 //            loop_example();
             disp_loop();
-            ESP_LOGI("Service task",  "Task 1\r\n");
+//            ESP_LOGI("Service task",  "Task 1\r\n");
             break;
         }
 

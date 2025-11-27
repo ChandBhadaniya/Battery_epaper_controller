@@ -1,0 +1,1153 @@
+configVersion: 1.0.0
+componentName: ZIGBEE_ON_OFF_LIGHT
+coreVersion: 5.8.2
+device: WBZ350
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: ZIGBEE_ON_OFF_LIGHT
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: wireless_zigbee
+  type: package
+  version: v6.2.0
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments:
+    children:
+    - children:
+      - attributes:
+          id: TC0_TMR_Zigbee
+        children:
+        - children:
+          - attributes:
+              id: targetComponentID
+            children:
+            - type: Value
+              value: tc0
+            type: String
+          - attributes:
+              id: targetAttachmentID
+            children:
+            - type: Value
+              value: TC0_TMR
+            type: String
+          type: Attributes
+        type: DirectDependency
+      type: Attachments
+    type: ZIGBEE_ON_OFF_LIGHT
+  elementPosition:
+    attributes:
+      id: __ROOTVIEW
+    children:
+    - children:
+      - attributes:
+          id: ZIGBEE_ON_OFF_LIGHT
+          x: '509'
+          y: '322'
+        type: ElementPosition
+      type: ElementPositions
+    type: ComponentGraph
+  symbols:
+    AC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: AC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    AC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: AC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '6'
+          type: Dynamic
+        type: Values
+      type: Integer
+    AC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: AC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: Integer
+    ALARMS_CLUSTER_ENABLE:
+      attributes:
+        id: ALARMS_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    APP_ENABLE_CERTIFICATION_EXTENSION:
+      attributes:
+        id: APP_ENABLE_CERTIFICATION_EXTENSION
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    APP_ENABLE_CONSOLE:
+      attributes:
+        id: APP_ENABLE_CONSOLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    AS_SERVERCOMMANDCOUNT:
+      attributes:
+        id: AS_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '6'
+          type: Dynamic
+        type: Values
+      type: Integer
+    BASIC_CLUSTER_CS:
+      attributes:
+        id: BASIC_CLUSTER_CS
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: BOTH
+          type: Dynamic
+        type: Values
+      type: Combo
+    BASIC_CLUSTER_ENABLE:
+      attributes:
+        id: BASIC_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    BC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: BC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    BC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: BC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    BC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: BC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '15'
+          type: Dynamic
+        type: Values
+      type: Integer
+    BC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: BC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    BDB_COMMANDS_IN_CONSOLE:
+      attributes:
+        id: BDB_COMMANDS_IN_CONSOLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    CCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: CCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    CCC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: CCC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '19'
+          type: Dynamic
+        type: Values
+      type: Integer
+    CCC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: CCC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '20'
+          type: Dynamic
+        type: Values
+      type: Integer
+    CC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: CC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '40'
+          type: Dynamic
+        type: Values
+      type: Integer
+    COLORCONTROL_CLUSTER_ENABLE:
+      attributes:
+        id: COLORCONTROL_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    COMMISSIONING_COMMANDS_IN_CONSOLE:
+      attributes:
+        id: COMMISSIONING_COMMANDS_IN_CONSOLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    CS_DEVICE_PA_SELECT:
+      attributes:
+        id: CS_DEVICE_PA_SELECT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: CS_DEVICE_POWER_LPA
+          type: Dynamic
+        type: Values
+      type: String
+    CUSTOM_ANT_GAIN:
+      attributes:
+        id: CUSTOM_ANT_GAIN
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '3'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: DC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: DC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '4'
+          type: Dynamic
+        type: Values
+      type: Integer
+    DEVICE_DEEP_SLEEP_ENABLED:
+      attributes:
+        id: DEVICE_DEEP_SLEEP_ENABLED
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    DEVICE_TYPE_FILE_PATH:
+      attributes:
+        id: DEVICE_TYPE_FILE_PATH
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: light
+          type: Dynamic
+        type: Values
+      type: String
+    DEVICE_TYPE_FILE_PREFIX:
+      attributes:
+        id: DEVICE_TYPE_FILE_PREFIX
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: light
+          type: Dynamic
+        type: Values
+      type: String
+    DIAGONSTICS_CLUSTER_ENABLE:
+      attributes:
+        id: DIAGONSTICS_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    FANCONTROL_CLUSTER_ENABLE:
+      attributes:
+        id: FANCONTROL_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    FCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: FCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    FCC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: FCC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '3'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: GCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: GCC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '10'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GCS_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: GCS_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: GC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '10'
+          type: Dynamic
+        type: Values
+      type: Integer
+    GROUPS_CLUSTER_CS:
+      attributes:
+        id: GROUPS_CLUSTER_CS
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: BOTH
+          type: Dynamic
+        type: Values
+      type: Combo
+    GROUPS_CLUSTER_ENABLE:
+      attributes:
+        id: GROUPS_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    IACC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: IACC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IACC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: IACC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '19'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IAC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: IAC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IAC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: IAC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '19'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IASACE_CLUSTER_ENABLE:
+      attributes:
+        id: IASACE_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    IASZONE_CLUSTER_ENABLE:
+      attributes:
+        id: IASZONE_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    ICC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: ICC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    ICC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: ICC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '4'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: IC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '2'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: IC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '4'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IDENTIFY_CLUSTER_CS:
+      attributes:
+        id: IDENTIFY_CLUSTER_CS
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: BOTH
+          type: Dynamic
+        type: Values
+      type: Combo
+    IDENTIFY_CLUSTER_ENABLE:
+      attributes:
+        id: IDENTIFY_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    ILLUMINANCEMEASUREMENT_CLUSTER_ENABLE:
+      attributes:
+        id: ILLUMINANCEMEASUREMENT_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    IMCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: IMCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IMC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: IMC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '6'
+          type: Dynamic
+        type: Values
+      type: Integer
+    INITIAL_DEPENDENT_CALL:
+      attributes:
+        id: INITIAL_DEPENDENT_CALL
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    IZCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: IZCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IZCC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: IZCC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '5'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IZC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: IZC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '8'
+          type: Dynamic
+        type: Values
+      type: Integer
+    IZC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: IZC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '5'
+          type: Dynamic
+        type: Values
+      type: Integer
+    LCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: LCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    LCC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: LCC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '8'
+          type: Dynamic
+        type: Values
+      type: Integer
+    LC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: LC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '5'
+          type: Dynamic
+        type: Values
+      type: Integer
+    LC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: LC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '8'
+          type: Dynamic
+        type: Values
+      type: Integer
+    LEVELCONTROL_CLUSTER_ENABLE:
+      attributes:
+        id: LEVELCONTROL_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    NUMBER_OF_CLIENT_CLUSTERS_COUNT:
+      attributes:
+        id: NUMBER_OF_CLIENT_CLUSTERS_COUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '3'
+          type: Dynamic
+        type: Values
+      type: Integer
+    NUMBER_OF_SERVER_CLUSTERS_COUNT:
+      attributes:
+        id: NUMBER_OF_SERVER_CLUSTERS_COUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '5'
+          type: Dynamic
+        type: Values
+      type: Integer
+    OCCUPANCYSENSING_CLUSTER_ENABLE:
+      attributes:
+        id: OCCUPANCYSENSING_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    OCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: OCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    OCC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: OCC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '6'
+          type: Dynamic
+        type: Values
+      type: Integer
+    OC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: OC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '6'
+          type: Dynamic
+        type: Values
+      type: Integer
+    OC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: OC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '6'
+          type: Dynamic
+        type: Values
+      type: Integer
+    ONOFF_CLUSTER_CS:
+      attributes:
+        id: ONOFF_CLUSTER_CS
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: SERVER
+          type: Dynamic
+        type: Values
+      type: Combo
+    ONOFF_CLUSTER_ENABLE:
+      attributes:
+        id: ONOFF_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    OSCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: OSCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    OSC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: OSC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '13'
+          type: Dynamic
+        type: Values
+      type: Integer
+    SCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: SCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    SCC_CLIENTCOMMANDCOUNT:
+      attributes:
+        id: SCC_CLIENTCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '20'
+          type: Dynamic
+        type: Values
+      type: Integer
+    SCENES_CLUSTER_CS:
+      attributes:
+        id: SCENES_CLUSTER_CS
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: SERVER
+          type: Dynamic
+        type: Values
+      type: Combo
+    SCENES_CLUSTER_ENABLE:
+      attributes:
+        id: SCENES_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'true'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    SC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: SC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '6'
+          type: Dynamic
+        type: Values
+      type: Integer
+    SC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: SC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '19'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: TCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: TC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '11'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TEMPERATUREMEASUREMENT_CLUSTER_ENABLE:
+      attributes:
+        id: TEMPERATUREMEASUREMENT_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    THCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: THCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    THC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: THC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '27'
+          type: Dynamic
+        type: Values
+      type: Integer
+    THC_SERVERCOMMANDCOUNT:
+      attributes:
+        id: THC_SERVERCOMMANDCOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    THERMOSTATUI_CLUSTER_ENABLE:
+      attributes:
+        id: THERMOSTATUI_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    THERMOSTAT_CLUSTER_ENABLE:
+      attributes:
+        id: THERMOSTAT_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    TIME_CLUSTER_ENABLE:
+      attributes:
+        id: TIME_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    TMCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: TMCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TMC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: TMC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '5'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TUICC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: TUICC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TUIC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: TUIC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '4'
+          type: Dynamic
+        type: Values
+      type: Integer
+    TX_PWR_MAX_NON_FHSS:
+      attributes:
+        id: TX_PWR_MAX_NON_FHSS
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '10'
+          type: Dynamic
+        type: Values
+      type: Integer
+    USE_CUSTOM_ANT_GAIN:
+      attributes:
+        id: USE_CUSTOM_ANT_GAIN
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    WATERCONTENTMEASUREMENT_CLUSTER_ENABLE:
+      attributes:
+        id: WATERCONTENTMEASUREMENT_CLUSTER_ENABLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    WCMC_SERVERATTRIBUTECOUNT:
+      attributes:
+        id: WCMC_SERVERATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '5'
+          type: Dynamic
+        type: Values
+      type: Integer
+    WMCC_CLIENTATTRIBUTECOUNT:
+      attributes:
+        id: WMCC_CLIENTATTRIBUTECOUNT
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: '1'
+          type: Dynamic
+        type: Values
+      type: Integer
+    ZB_DEVICE_TYPE:
+      attributes:
+        id: ZB_DEVICE_TYPE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: ZIGBEE_ON_OFF_LIGHT
+          type: Dynamic
+        type: Values
+      type: Combo
+    ZCL_COMMANDS_IN_CONSOLE:
+      attributes:
+        id: ZCL_COMMANDS_IN_CONSOLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+    ZDO_COMMANDS_IN_CONSOLE:
+      attributes:
+        id: ZDO_COMMANDS_IN_CONSOLE
+      children:
+      - children:
+        - attributes:
+            id: ZIGBEE_ON_OFF_LIGHT
+            value: 'false'
+          type: Dynamic
+        type: Values
+      type: Boolean
+  userData: {}

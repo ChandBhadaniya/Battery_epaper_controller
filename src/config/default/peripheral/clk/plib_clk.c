@@ -175,14 +175,14 @@ void CLOCK_Initialize( void )
     CFG_REGS->CFG_CFGPCLKGEN1 = 0x9000;
     CFG_REGS->CFG_CFGPCLKGEN2 = 0x0;
     CFG_REGS->CFG_CFGPCLKGEN3 = 0x0;
-    CFG_REGS->CFG_CFGPCLKGEN4 = 0x0;
+    CFG_REGS->CFG_CFGPCLKGEN4 = 0x9;
 
     /* Peripheral Module Disable Configuration */
 
 
     CFG_REGS->CFG_PMD1 = 0x208103cf;
     CFG_REGS->CFG_PMD2 = 0x0;
-    CFG_REGS->CFG_PMD3 = 0x7ff8;
+    CFG_REGS->CFG_PMD3 = 0x7fe8;
 
 
     /* Lock system since done with clock configuration */
@@ -191,6 +191,6 @@ void CLOCK_Initialize( void )
     // Change src_clk source to PLL CLK
     BTZBSYS_REGS->BTZBSYS_SUBSYS_CNTRL_REG1 |= 0x00000010U;
 
-    // set aclb_reset_n[24]
-    BTZBSYS_REGS->BTZBSYS_SUBSYS_CNTRL_REG0 |= 0x01000000U;
+    // set aclb_reset_n[24], bt_en_main_clk[20] zb_en_main_clk[4]
+    BTZBSYS_REGS->BTZBSYS_SUBSYS_CNTRL_REG0 |= 0x01100010U;
 }

@@ -1,8 +1,8 @@
 build/default/debug/_ext/1845689546/hV_HAL_Peripherals.o: \
  ../lib/PDLS/hV_HAL_Peripherals/src/hV_HAL_Peripherals.cpp \
  ../lib/PDLS/hV_HAL_Peripherals/src/hV_HAL_Peripherals.h \
- /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/iostream \
  /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/algorithm \
+ /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cctype \
  ../lib/PDLS/hV_Common/src/hV_Constants.h ../lib/PDLS/common_def.h \
  ../src/config/default/peripheral/sercom/usart/plib_sercom1_usart.h \
  ../src/config/default/peripheral/sercom/usart/plib_sercom_usart_common.h \
@@ -105,8 +105,7 @@ build/default/debug/_ext/1845689546/hV_HAL_Peripherals.o: \
  ../src/config/default/device_cache.h ../src/config/default/device.h \
  ../src/config/default/toolchain_specifics.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
- ../src/config/default/definitions.h \
- ../src/config/default/peripheral/sercom/usart/plib_sercom1_usart.h \
+ ../lib/PDLS/definations_cpp.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom0_spi_master.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom_spi_master_common.h \
  ../src/config/default/peripheral/evsys/plib_evsys.h \
@@ -126,7 +125,8 @@ build/default/debug/_ext/1845689546/hV_HAL_Peripherals.o: \
  ../src/config/default/system/int/sys_int.h \
  ../src/config/default/system/int/sys_int_mapping.h \
  ../src/config/default/system/cache/sys_cache.h \
- ../src/config/default/osal/osal.h \
+ ../src/config/default/osal/osal.h ../src/config/default/configuration.h \
+ ../src/config/default/user.h \
  ../src/config/default/osal/osal_definitions.h \
  ../src/config/default/osal/osal_freertos.h \
  ../src/third_party/rtos/FreeRTOS/Source/include/queue.h \
@@ -137,17 +137,16 @@ build/default/debug/_ext/1845689546/hV_HAL_Peripherals.o: \
  ../src/config/default/system/system.h \
  ../src/config/default/system/system_common.h \
  ../src/config/default/system/system_module.h \
- ../src/config/default/system/system_common.h \
- ../src/config/default/configuration.h ../src/config/default/user.h \
- ../src/app.h \
+ ../src/config/default/system/system_common.h ../src/app.h \
  /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/stdlib.h \
- ../src/app1.h
+ ../src/config/default/osal/osal_freertos_extend.h \
+ ../src/config/default/osal/osal_freertos.h ../src/app1.h
 
 ../lib/PDLS/hV_HAL_Peripherals/src/hV_HAL_Peripherals.h:
 
-/opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/iostream:
-
 /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/algorithm:
+
+/opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cctype:
 
 ../lib/PDLS/hV_Common/src/hV_Constants.h:
 
@@ -359,9 +358,7 @@ build/default/debug/_ext/1845689546/hV_HAL_Peripherals.o: \
 
 ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h:
 
-../src/config/default/definitions.h:
-
-../src/config/default/peripheral/sercom/usart/plib_sercom1_usart.h:
+../lib/PDLS/definations_cpp.h:
 
 ../src/config/default/peripheral/sercom/spi_master/plib_sercom0_spi_master.h:
 
@@ -403,6 +400,10 @@ build/default/debug/_ext/1845689546/hV_HAL_Peripherals.o: \
 
 ../src/config/default/osal/osal.h:
 
+../src/config/default/configuration.h:
+
+../src/config/default/user.h:
+
 ../src/config/default/osal/osal_definitions.h:
 
 ../src/config/default/osal/osal_freertos.h:
@@ -425,12 +426,12 @@ build/default/debug/_ext/1845689546/hV_HAL_Peripherals.o: \
 
 ../src/config/default/system/system_common.h:
 
-../src/config/default/configuration.h:
-
-../src/config/default/user.h:
-
 ../src/app.h:
 
 /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/stdlib.h:
+
+../src/config/default/osal/osal_freertos_extend.h:
+
+../src/config/default/osal/osal_freertos.h:
 
 ../src/app1.h:

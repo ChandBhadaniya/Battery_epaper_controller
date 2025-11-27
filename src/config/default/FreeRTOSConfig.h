@@ -88,7 +88,7 @@
  * 0 to keep the tick interrupt running at all times.  Not all FreeRTOS ports
  * support tickless mode. See https://www.freertos.org/low-power-tickless-rtos.html
  * Defaults to 0 if left undefined. */
-#define configUSE_TICKLESS_IDLE                 0
+#define configUSE_TICKLESS_IDLE                 1
 
 /* configMAX_PRIORITIES Sets the number of available task priorities.  Tasks can
  * be assigned priorities of 0 to (configMAX_PRIORITIES - 1).  Zero is the lowest
@@ -99,7 +99,7 @@
  * (in words, not in bytes!).  The kernel does not use this constant for any other
  * purpose.  Demo applications use the constant to make the demos somewhat portable
  * across hardware architectures. */
-#define configMINIMAL_STACK_SIZE                ( 128 )
+#define configMINIMAL_STACK_SIZE                ( 256 )
 
 /* configMAX_TASK_NAME_LEN sets the maximum length (in characters) of a task's
  * human readable name.  Includes the NULL terminator. */
@@ -193,6 +193,7 @@
  * be provided with locks. */
 #define configUSE_NEWLIB_REENTRANT              0
 
+#define configEXPECTED_IDLE_TIME_BEFORE_SLEEP   5
 
 /******************************************************************************/
 /* Software timer related definitions. ****************************************/
@@ -268,7 +269,7 @@
  * or heap_4.c are included in the build.  This value is defaulted to 4096 bytes but
  * it must be tailored to each application.  Note the heap will appear in the .bss
  * section.  See https://www.freertos.org/a00111.html. */
-#define configTOTAL_HEAP_SIZE                   ( ( size_t ) 40960 )
+#define configTOTAL_HEAP_SIZE                   ( ( size_t ) 40*1024 )
 
 /* Set configAPPLICATION_ALLOCATED_HEAP to 1 to have the application allocate
  * the array used as the FreeRTOS heap.  Set to 0 to have the linker allocate the
@@ -316,8 +317,8 @@
  * functionality in the build.  Set to 0 to exclude the hook functionality from the
  * build.  The application writer is responsible for providing the hook function
  * for any set to 1.  See https://www.freertos.org/a00016.html. */
-#define configUSE_IDLE_HOOK                     0
-#define configUSE_TICK_HOOK                     0
+#define configUSE_IDLE_HOOK                     1
+#define configUSE_TICK_HOOK                     1
 #define configUSE_MALLOC_FAILED_HOOK            1
 #define configUSE_DAEMON_TASK_STARTUP_HOOK      0
 
@@ -409,7 +410,7 @@
 #define configUSE_MUTEXES                       1
 #define configUSE_RECURSIVE_MUTEXES             0
 #define configUSE_COUNTING_SEMAPHORES           1
-#define configUSE_QUEUE_SETS                    0
+#define configUSE_QUEUE_SETS                    1
 #define configUSE_APPLICATION_TASK_TAG          0
 #define configUSE_TASK_FPU_SUPPORT              0
 
@@ -433,7 +434,7 @@
 #define INCLUDE_eTaskGetState                   0
 #define INCLUDE_xEventGroupSetBitFromISR        1
 #define INCLUDE_xTimerPendFunctionCall          0
-#define INCLUDE_xTaskAbortDelay                 0
+#define INCLUDE_xTaskAbortDelay                 1
 #define INCLUDE_xTaskGetHandle                  0
 #define INCLUDE_xQueueGetMutexHolder            0
 #define INCLUDE_xSemaphoreGetMutexHolder        0

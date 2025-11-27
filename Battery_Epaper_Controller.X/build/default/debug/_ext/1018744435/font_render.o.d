@@ -104,8 +104,8 @@ build/default/debug/_ext/1018744435/font_render.o: \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
  ../lib/PDLS/hV_Common/src/hV_Screen_Buffer.h \
  ../lib/PDLS/hV_HAL_Peripherals/src/hV_HAL_Peripherals.h \
- /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/iostream \
  /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/algorithm \
+ /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cctype \
  ../lib/PDLS/hV_Common/src/hV_Constants.h \
  ../lib/PDLS/hV_Common/src/hV_Configuration.h ../lib/System/board.h \
  ../lib/PDLS/hV_Common/src/hV_Constants.h \
@@ -338,9 +338,9 @@ build/default/debug/_ext/1018744435/font_render.o: \
 
 ../lib/PDLS/hV_HAL_Peripherals/src/hV_HAL_Peripherals.h:
 
-/opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/iostream:
-
 /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/algorithm:
+
+/opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cctype:
 
 ../lib/PDLS/hV_Common/src/hV_Constants.h:
 

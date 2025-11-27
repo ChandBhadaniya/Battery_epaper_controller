@@ -1,6 +1,11 @@
-build/default/debug/_ext/1360937237/app1.o: ../src/app1.c ../src/app1.h \
- ../src/config/default/configuration.h ../src/config/default/user.h \
- ../src/config/default/device.h ../src/packs/WBZ350_DFP/wbz350.h \
+build/default/debug/_ext/1360937237/app1.o: ../src/app1.c \
+ ../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h \
+ ../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h \
+ ../src/config/default/zigbee/z3device_configs/stackConfig.h \
+ ../src/app1.h ../src/config/default/configuration.h \
+ ../src/config/default/user.h ../src/config/default/device.h \
+ ../src/packs/WBZ350_DFP/wbz350.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/core_cm4.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_version.h \
  ../src/packs/CMSIS/CMSIS/Core/Include/cmsis_compiler.h \
@@ -107,6 +112,14 @@ build/default/debug/_ext/1360937237/app1.o: ../src/app1.c ../src/app1.h \
  ../src/config/default/peripheral/gpio/plib_gpio.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom0_spi_master.h \
  ../src/config/default/peripheral/sercom/spi_master/plib_sercom_spi_master_common.h
+
+../src/config/default/zigbee/lib/Zigbee_AllDevice_Makerules.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppConfig.h:
+
+../src/config/default/zigbee/z3device_configs/zigbeeAppDeviceSelect.h:
+
+../src/config/default/zigbee/z3device_configs/stackConfig.h:
 
 ../src/app1.h:
 

@@ -2,8 +2,8 @@ build/default/debug/_ext/1018744435/ui_text.o: ../lib/UI/ui_text.cpp \
  ../lib/UI/ui_text.h \
  ../lib/PDLS/hV_Font_DejaVu_Header/src/hV_Font_Header.h \
  ../lib/PDLS/hV_HAL_Peripherals/src/hV_HAL_Peripherals.h \
- /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/iostream \
  /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/algorithm \
+ /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cctype \
  ../lib/PDLS/hV_Common/src/hV_Constants.h ../lib/PDLS/common_def.h \
  ../src/config/default/peripheral/sercom/usart/plib_sercom1_usart.h \
  ../src/config/default/peripheral/sercom/usart/plib_sercom_usart_common.h \
@@ -123,9 +123,9 @@ build/default/debug/_ext/1018744435/ui_text.o: ../lib/UI/ui_text.cpp \
 
 ../lib/PDLS/hV_HAL_Peripherals/src/hV_HAL_Peripherals.h:
 
-/opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/iostream:
-
 /opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/algorithm:
+
+/opt/microchip/xc32/v4.60/bin/bin/../../pic32c/include/c++/8.3.1/cctype:
 
 ../lib/PDLS/hV_Common/src/hV_Constants.h:
 

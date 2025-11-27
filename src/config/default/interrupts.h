@@ -67,6 +67,8 @@ void vPortSVCHandler (void);
 void DebugMonitor_Handler (void);
 void xPortPendSVHandler (void);
 void xPortSysTickHandler (void);
+void NVM_InterruptHandler (void);
+void TC0_TimerInterruptHandler (void);
 
 
 
